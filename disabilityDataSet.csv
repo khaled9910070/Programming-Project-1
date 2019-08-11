@@ -1,0 +1,3165 @@
+code_module,region,id_student,studied_credits,final_result
+AAA,East Anglian Region,205719,90,Fail
+AAA,East Anglian Region,345068,180,Pass
+AAA,East Anglian Region,1472925,60,Fail
+AAA,East Anglian Region,1942396,120,Pass
+AAA,East Anglian Region,2011876,60,Pass
+AAA,East Anglian Region,146503,120,Pass
+AAA,East Anglian Region,164944,60,Pass
+AAA,East Anglian Region,329659,60,Fail
+AAA,East Anglian Region,377546,120,Distinction
+AAA,East Anglian Region,402727,60,Pass
+AAA,East Anglian Region,1472925,60,Pass
+AAA,East Anglian Region,2375975,60,Pass
+AAA,London Region,2065691,330,Withdrawn
+AAA,London Region,2429854,120,Withdrawn
+AAA,London Region,514526,120,Withdrawn
+AAA,London Region,2429854,60,Fail
+AAA,North Western Region,30268,60,Withdrawn
+AAA,North Western Region,148993,60,Withdrawn
+AAA,North Western Region,148993,60,Pass
+AAA,North Western Region,294496,60,Pass
+AAA,Scotland,405961,240,Withdrawn
+AAA,Scotland,420087,60,Fail
+AAA,Scotland,2149225,60,Withdrawn
+AAA,Scotland,2364471,60,Pass
+AAA,South East Region,135400,60,Withdrawn
+AAA,South East Region,135400,60,Pass
+AAA,South East Region,174094,60,Pass
+AAA,South East Region,628088,60,Withdrawn
+AAA,South Region,1889577,60,Pass
+AAA,South Region,396599,120,Fail
+AAA,South Region,396655,180,Fail
+AAA,South Region,1967783,60,Pass
+AAA,South Region,2521865,60,Pass
+AAA,South Region,2694788,180,Fail
+AAA,South West Region,334333,240,Withdrawn
+AAA,South West Region,368194,120,Pass
+AAA,South West Region,1860318,300,Pass
+AAA,West Midlands Region,146188,60,Fail
+AAA,West Midlands Region,305386,120,Pass
+AAA,West Midlands Region,2155014,60,Pass
+AAA,West Midlands Region,2578995,60,Pass
+AAA,West Midlands Region,2620584,60,Fail
+BBB,East Anglian Region,123860,60,Pass
+BBB,East Anglian Region,203652,180,Fail
+BBB,East Anglian Region,256215,150,Withdrawn
+BBB,East Anglian Region,365452,60,Pass
+BBB,East Anglian Region,403093,60,Pass
+BBB,East Anglian Region,444408,60,Fail
+BBB,East Anglian Region,493377,60,Withdrawn
+BBB,East Anglian Region,498296,60,Pass
+BBB,East Anglian Region,510141,60,Withdrawn
+BBB,East Anglian Region,520749,120,Withdrawn
+BBB,East Anglian Region,525501,60,Pass
+BBB,East Anglian Region,535530,60,Pass
+BBB,East Anglian Region,541073,60,Pass
+BBB,East Anglian Region,541196,60,Withdrawn
+BBB,East Anglian Region,544632,120,Pass
+BBB,East Anglian Region,546333,60,Withdrawn
+BBB,East Anglian Region,550381,60,Pass
+BBB,East Anglian Region,550400,60,Fail
+BBB,East Anglian Region,551129,60,Pass
+BBB,East Anglian Region,552667,60,Pass
+BBB,East Anglian Region,630346,60,Fail
+BBB,East Anglian Region,1721462,60,Pass
+BBB,East Anglian Region,205788,120,Pass
+BBB,East Anglian Region,358289,180,Withdrawn
+BBB,East Anglian Region,409160,120,Fail
+BBB,East Anglian Region,414350,330,Distinction
+BBB,East Anglian Region,474071,60,Fail
+BBB,East Anglian Region,492153,120,Pass
+BBB,East Anglian Region,495625,120,Pass
+BBB,East Anglian Region,500135,60,Fail
+BBB,East Anglian Region,518223,60,Pass
+BBB,East Anglian Region,518496,60,Pass
+BBB,East Anglian Region,529000,60,Fail
+BBB,East Anglian Region,533301,60,Pass
+BBB,East Anglian Region,545297,60,Fail
+BBB,East Anglian Region,560074,60,Pass
+BBB,East Anglian Region,567013,60,Fail
+BBB,East Anglian Region,567402,60,Pass
+BBB,East Anglian Region,574348,120,Pass
+BBB,East Anglian Region,577007,60,Withdrawn
+BBB,East Anglian Region,586975,120,Withdrawn
+BBB,East Anglian Region,587071,120,Fail
+BBB,East Anglian Region,592624,120,Pass
+BBB,East Anglian Region,593930,60,Withdrawn
+BBB,East Anglian Region,594468,60,Pass
+BBB,East Anglian Region,596451,60,Pass
+BBB,East Anglian Region,601706,60,Withdrawn
+BBB,East Anglian Region,605595,60,Fail
+BBB,East Anglian Region,610449,120,Withdrawn
+BBB,East Anglian Region,2411595,60,Pass
+BBB,East Anglian Region,2444641,60,Fail
+BBB,East Anglian Region,2584834,60,Pass
+BBB,East Anglian Region,2631545,150,Fail
+BBB,East Anglian Region,2656860,120,Withdrawn
+BBB,East Anglian Region,72400,120,Distinction
+BBB,East Anglian Region,130013,60,Pass
+BBB,East Anglian Region,374515,60,Withdrawn
+BBB,East Anglian Region,381525,60,Withdrawn
+BBB,East Anglian Region,423652,120,Distinction
+BBB,East Anglian Region,510141,120,Fail
+BBB,East Anglian Region,537698,60,Pass
+BBB,East Anglian Region,547268,60,Withdrawn
+BBB,East Anglian Region,556012,60,Fail
+BBB,East Anglian Region,561060,120,Pass
+BBB,East Anglian Region,612212,120,Fail
+BBB,East Anglian Region,627680,60,Withdrawn
+BBB,East Anglian Region,2444501,120,Withdrawn
+BBB,East Anglian Region,2446599,120,Pass
+BBB,East Anglian Region,165498,270,Withdrawn
+BBB,East Anglian Region,292813,120,Withdrawn
+BBB,East Anglian Region,342192,90,Pass
+BBB,East Anglian Region,511001,180,Pass
+BBB,East Anglian Region,556290,120,Withdrawn
+BBB,East Anglian Region,561979,120,Pass
+BBB,East Anglian Region,572538,60,Pass
+BBB,East Anglian Region,582460,60,Pass
+BBB,East Anglian Region,586818,60,Fail
+BBB,East Anglian Region,601706,120,Pass
+BBB,East Anglian Region,608319,60,Withdrawn
+BBB,East Anglian Region,610385,60,Pass
+BBB,East Anglian Region,627968,300,Fail
+BBB,East Anglian Region,652906,60,Withdrawn
+BBB,East Anglian Region,653086,60,Distinction
+BBB,East Anglian Region,677230,60,Withdrawn
+BBB,East Anglian Region,677879,60,Fail
+BBB,East Anglian Region,683987,60,Pass
+BBB,East Anglian Region,686822,60,Pass
+BBB,East Anglian Region,689069,60,Fail
+BBB,East Anglian Region,692384,60,Withdrawn
+BBB,East Anglian Region,694554,120,Withdrawn
+BBB,East Anglian Region,2103305,120,Withdrawn
+BBB,East Anglian Region,2694919,120,Pass
+BBB,East Midlands Region,151697,60,Pass
+BBB,East Midlands Region,296408,180,Withdrawn
+BBB,East Midlands Region,374102,60,Fail
+BBB,East Midlands Region,386348,120,Pass
+BBB,East Midlands Region,393327,120,Withdrawn
+BBB,East Midlands Region,408112,60,Pass
+BBB,East Midlands Region,444926,180,Pass
+BBB,East Midlands Region,466810,60,Pass
+BBB,East Midlands Region,497278,60,Withdrawn
+BBB,East Midlands Region,509901,120,Fail
+BBB,East Midlands Region,518879,60,Pass
+BBB,East Midlands Region,529118,120,Withdrawn
+BBB,East Midlands Region,534765,120,Pass
+BBB,East Midlands Region,2458984,60,Pass
+BBB,East Midlands Region,2616787,90,Pass
+BBB,East Midlands Region,240993,60,Pass
+BBB,East Midlands Region,243851,60,Pass
+BBB,East Midlands Region,272617,60,Withdrawn
+BBB,East Midlands Region,389471,60,Fail
+BBB,East Midlands Region,393327,60,Pass
+BBB,East Midlands Region,467179,100,Withdrawn
+BBB,East Midlands Region,475594,210,Fail
+BBB,East Midlands Region,484301,60,Pass
+BBB,East Midlands Region,519622,180,Fail
+BBB,East Midlands Region,529597,120,Fail
+BBB,East Midlands Region,530514,60,Pass
+BBB,East Midlands Region,566339,60,Pass
+BBB,East Midlands Region,573831,60,Pass
+BBB,East Midlands Region,585764,60,Withdrawn
+BBB,East Midlands Region,585963,60,Fail
+BBB,East Midlands Region,593871,90,Pass
+BBB,East Midlands Region,597255,60,Withdrawn
+BBB,East Midlands Region,600856,60,Distinction
+BBB,East Midlands Region,601346,60,Distinction
+BBB,East Midlands Region,605691,60,Withdrawn
+BBB,East Midlands Region,605832,60,Pass
+BBB,East Midlands Region,608623,60,Pass
+BBB,East Midlands Region,2464683,90,Pass
+BBB,East Midlands Region,125055,60,Pass
+BBB,East Midlands Region,571897,120,Pass
+BBB,East Midlands Region,581647,120,Withdrawn
+BBB,East Midlands Region,610589,180,Withdrawn
+BBB,East Midlands Region,621322,60,Pass
+BBB,East Midlands Region,626386,60,Withdrawn
+BBB,East Midlands Region,631132,60,Fail
+BBB,East Midlands Region,631563,120,Fail
+BBB,East Midlands Region,1840034,60,Pass
+BBB,East Midlands Region,150398,60,Distinction
+BBB,East Midlands Region,269510,60,Fail
+BBB,East Midlands Region,272617,60,Withdrawn
+BBB,East Midlands Region,379720,60,Pass
+BBB,East Midlands Region,503663,60,Withdrawn
+BBB,East Midlands Region,522478,210,Fail
+BBB,East Midlands Region,571395,60,Fail
+BBB,East Midlands Region,573130,60,Pass
+BBB,East Midlands Region,576445,120,Withdrawn
+BBB,East Midlands Region,585963,60,Withdrawn
+BBB,East Midlands Region,599323,60,Fail
+BBB,East Midlands Region,641540,120,Withdrawn
+BBB,East Midlands Region,641992,60,Withdrawn
+BBB,East Midlands Region,643608,60,Withdrawn
+BBB,East Midlands Region,649351,60,Withdrawn
+BBB,East Midlands Region,677338,120,Withdrawn
+BBB,East Midlands Region,682289,120,Withdrawn
+BBB,East Midlands Region,690967,60,Pass
+BBB,East Midlands Region,694682,180,Withdrawn
+BBB,Ireland,2418877,60,Withdrawn
+BBB,Ireland,437030,120,Withdrawn
+BBB,Ireland,530753,60,Fail
+BBB,Ireland,577376,90,Pass
+BBB,Ireland,604196,60,Pass
+BBB,Ireland,613199,120,Withdrawn
+BBB,Ireland,514031,180,Pass
+BBB,Ireland,552931,120,Withdrawn
+BBB,Ireland,613199,120,Pass
+BBB,Ireland,624661,60,Pass
+BBB,Ireland,2418877,120,Fail
+BBB,Ireland,612750,60,Pass
+BBB,Ireland,643953,120,Fail
+BBB,Ireland,695049,60,Pass
+BBB,Ireland,2594368,60,Pass
+BBB,London Region,79378,120,Fail
+BBB,London Region,120994,70,Fail
+BBB,London Region,143741,120,Distinction
+BBB,London Region,377759,120,Pass
+BBB,London Region,380151,60,Withdrawn
+BBB,London Region,398965,120,Withdrawn
+BBB,London Region,505595,210,Withdrawn
+BBB,London Region,513210,120,Withdrawn
+BBB,London Region,543165,120,Pass
+BBB,London Region,546909,60,Fail
+BBB,London Region,550898,60,Fail
+BBB,London Region,555552,120,Withdrawn
+BBB,London Region,555909,60,Withdrawn
+BBB,London Region,2035022,120,Pass
+BBB,London Region,2481224,120,Pass
+BBB,London Region,55026,60,Pass
+BBB,London Region,98720,60,Pass
+BBB,London Region,268589,90,Pass
+BBB,London Region,280151,210,Fail
+BBB,London Region,385820,120,Pass
+BBB,London Region,397590,60,Fail
+BBB,London Region,401319,60,Withdrawn
+BBB,London Region,505595,60,Withdrawn
+BBB,London Region,552399,60,Distinction
+BBB,London Region,555061,90,Fail
+BBB,London Region,567033,120,Distinction
+BBB,London Region,570970,105,Withdrawn
+BBB,London Region,572416,60,Pass
+BBB,London Region,582806,60,Withdrawn
+BBB,London Region,584534,120,Withdrawn
+BBB,London Region,599016,60,Pass
+BBB,London Region,599423,120,Withdrawn
+BBB,London Region,600121,120,Pass
+BBB,London Region,601551,60,Fail
+BBB,London Region,305373,150,Fail
+BBB,London Region,567963,60,Pass
+BBB,London Region,572378,240,Withdrawn
+BBB,London Region,590408,60,Fail
+BBB,London Region,607436,180,Withdrawn
+BBB,London Region,615018,60,Withdrawn
+BBB,London Region,616332,60,Withdrawn
+BBB,London Region,617287,60,Fail
+BBB,London Region,624427,120,Withdrawn
+BBB,London Region,632302,60,Pass
+BBB,London Region,1829654,60,Fail
+BBB,London Region,2184026,60,Withdrawn
+BBB,London Region,474408,120,Pass
+BBB,London Region,499790,60,Pass
+BBB,London Region,505595,60,Withdrawn
+BBB,London Region,575892,60,Withdrawn
+BBB,London Region,606531,120,Fail
+BBB,London Region,637295,120,Withdrawn
+BBB,London Region,653027,60,Fail
+BBB,London Region,654796,120,Withdrawn
+BBB,London Region,675161,120,Withdrawn
+BBB,London Region,677922,60,Pass
+BBB,London Region,678144,60,Fail
+BBB,London Region,678244,60,Pass
+BBB,London Region,681710,120,Fail
+BBB,London Region,689329,60,Fail
+BBB,North Region,532534,60,Fail
+BBB,North Region,2575914,60,Withdrawn
+BBB,North Region,413052,60,Withdrawn
+BBB,North Region,491097,120,Fail
+BBB,North Region,290914,120,Distinction
+BBB,North Region,2575914,120,Pass
+BBB,North Region,228909,60,Withdrawn
+BBB,North Western Region,186780,120,Withdrawn
+BBB,North Western Region,187793,120,Fail
+BBB,North Western Region,235097,60,Fail
+BBB,North Western Region,262294,60,Withdrawn
+BBB,North Western Region,422752,60,Withdrawn
+BBB,North Western Region,475688,120,Pass
+BBB,North Western Region,483243,135,Pass
+BBB,North Western Region,500659,120,Withdrawn
+BBB,North Western Region,513016,60,Withdrawn
+BBB,North Western Region,530226,120,Pass
+BBB,North Western Region,553840,60,Distinction
+BBB,North Western Region,557827,60,Fail
+BBB,North Western Region,2287671,120,Withdrawn
+BBB,North Western Region,2466123,60,Withdrawn
+BBB,North Western Region,2528966,120,Pass
+BBB,North Western Region,27759,120,Fail
+BBB,North Western Region,184236,60,Withdrawn
+BBB,North Western Region,261332,60,Fail
+BBB,North Western Region,340661,120,Withdrawn
+BBB,North Western Region,355591,210,Withdrawn
+BBB,North Western Region,363151,655,Withdrawn
+BBB,North Western Region,370307,150,Withdrawn
+BBB,North Western Region,492229,60,Withdrawn
+BBB,North Western Region,513076,120,Fail
+BBB,North Western Region,516926,60,Fail
+BBB,North Western Region,546196,120,Pass
+BBB,North Western Region,566392,150,Fail
+BBB,North Western Region,578264,120,Withdrawn
+BBB,North Western Region,582878,60,Pass
+BBB,North Western Region,588504,120,Withdrawn
+BBB,North Western Region,596964,60,Pass
+BBB,North Western Region,604079,120,Withdrawn
+BBB,North Western Region,604939,60,Fail
+BBB,North Western Region,611046,120,Withdrawn
+BBB,North Western Region,75118,150,Withdrawn
+BBB,North Western Region,76196,120,Withdrawn
+BBB,North Western Region,235097,120,Withdrawn
+BBB,North Western Region,262294,120,Fail
+BBB,North Western Region,321346,120,Pass
+BBB,North Western Region,508470,60,Pass
+BBB,North Western Region,567273,60,Withdrawn
+BBB,North Western Region,597316,120,Pass
+BBB,North Western Region,606335,120,Withdrawn
+BBB,North Western Region,615218,60,Fail
+BBB,North Western Region,618673,120,Fail
+BBB,North Western Region,618882,60,Pass
+BBB,North Western Region,623055,60,Pass
+BBB,North Western Region,624544,90,Withdrawn
+BBB,North Western Region,624879,60,Withdrawn
+BBB,North Western Region,626806,60,Withdrawn
+BBB,North Western Region,627252,60,Withdrawn
+BBB,North Western Region,628580,120,Distinction
+BBB,North Western Region,628827,60,Fail
+BBB,North Western Region,630476,60,Withdrawn
+BBB,North Western Region,631190,120,Withdrawn
+BBB,North Western Region,631197,60,Withdrawn
+BBB,North Western Region,1863244,120,Fail
+BBB,North Western Region,2392789,60,Pass
+BBB,North Western Region,418206,120,Withdrawn
+BBB,North Western Region,513751,60,Pass
+BBB,North Western Region,546250,60,Pass
+BBB,North Western Region,572496,60,Pass
+BBB,North Western Region,601285,60,Withdrawn
+BBB,North Western Region,651925,120,Pass
+BBB,North Western Region,674501,60,Withdrawn
+BBB,North Western Region,683140,60,Pass
+BBB,North Western Region,689298,120,Fail
+BBB,North Western Region,690902,180,Pass
+BBB,North Western Region,695631,60,Pass
+BBB,North Western Region,2251500,60,Fail
+BBB,Scotland,27891,120,Withdrawn
+BBB,Scotland,34353,120,Fail
+BBB,Scotland,50993,60,Fail
+BBB,Scotland,127209,180,Withdrawn
+BBB,Scotland,252340,120,Fail
+BBB,Scotland,277733,60,Pass
+BBB,Scotland,399792,150,Fail
+BBB,Scotland,525942,60,Withdrawn
+BBB,Scotland,541013,60,Pass
+BBB,Scotland,542259,60,Withdrawn
+BBB,Scotland,548097,60,Fail
+BBB,Scotland,548791,60,Pass
+BBB,Scotland,551172,120,Withdrawn
+BBB,Scotland,551770,60,Pass
+BBB,Scotland,552749,60,Fail
+BBB,Scotland,555747,60,Pass
+BBB,Scotland,555880,60,Fail
+BBB,Scotland,1436591,60,Distinction
+BBB,Scotland,2415962,120,Withdrawn
+BBB,Scotland,2425333,60,Fail
+BBB,Scotland,139549,60,Pass
+BBB,Scotland,235258,210,Withdrawn
+BBB,Scotland,280140,60,Fail
+BBB,Scotland,306964,60,Pass
+BBB,Scotland,342685,60,Pass
+BBB,Scotland,392060,60,Distinction
+BBB,Scotland,475241,60,Fail
+BBB,Scotland,482680,75,Pass
+BBB,Scotland,488908,120,Withdrawn
+BBB,Scotland,491279,60,Pass
+BBB,Scotland,503516,60,Fail
+BBB,Scotland,514776,60,Fail
+BBB,Scotland,525877,60,Withdrawn
+BBB,Scotland,558983,60,Fail
+BBB,Scotland,575290,120,Pass
+BBB,Scotland,587923,120,Pass
+BBB,Scotland,588685,120,Withdrawn
+BBB,Scotland,595854,60,Pass
+BBB,Scotland,600541,60,Withdrawn
+BBB,Scotland,602011,120,Withdrawn
+BBB,Scotland,1541133,150,Fail
+BBB,Scotland,1939695,60,Distinction
+BBB,Scotland,2192113,60,Withdrawn
+BBB,Scotland,2585937,165,Pass
+BBB,Scotland,27891,120,Fail
+BBB,Scotland,365111,75,Withdrawn
+BBB,Scotland,525942,120,Fail
+BBB,Scotland,555015,180,Distinction
+BBB,Scotland,570437,60,Distinction
+BBB,Scotland,575251,120,Withdrawn
+BBB,Scotland,588685,120,Fail
+BBB,Scotland,602011,120,Fail
+BBB,Scotland,606313,75,Pass
+BBB,Scotland,623069,60,Fail
+BBB,Scotland,1341507,60,Distinction
+BBB,Scotland,1560989,60,Withdrawn
+BBB,Scotland,1732219,60,Pass
+BBB,Scotland,2087747,60,Pass
+BBB,Scotland,2300913,300,Fail
+BBB,Scotland,74574,120,Withdrawn
+BBB,Scotland,191459,60,Fail
+BBB,Scotland,365111,120,Fail
+BBB,Scotland,412343,60,Fail
+BBB,Scotland,417971,120,Withdrawn
+BBB,Scotland,419924,60,Withdrawn
+BBB,Scotland,485853,180,Withdrawn
+BBB,Scotland,492676,120,Pass
+BBB,Scotland,495786,60,Fail
+BBB,Scotland,518389,180,Pass
+BBB,Scotland,553196,120,Withdrawn
+BBB,Scotland,636302,60,Pass
+BBB,Scotland,638997,60,Pass
+BBB,Scotland,648693,60,Distinction
+BBB,Scotland,653059,60,Fail
+BBB,Scotland,675085,60,Pass
+BBB,Scotland,680471,120,Fail
+BBB,Scotland,684704,60,Pass
+BBB,Scotland,688130,60,Pass
+BBB,Scotland,688144,60,Withdrawn
+BBB,Scotland,689131,60,Pass
+BBB,Scotland,692164,60,Pass
+BBB,Scotland,1432518,120,Fail
+BBB,Scotland,1560989,150,Fail
+BBB,Scotland,1733023,60,Distinction
+BBB,Scotland,2192113,60,Withdrawn
+BBB,Scotland,2414945,60,Fail
+BBB,Scotland,2497189,120,Withdrawn
+BBB,Scotland,2497624,120,Pass
+BBB,South East Region,442466,240,Pass
+BBB,South East Region,468949,60,Pass
+BBB,South East Region,472182,120,Withdrawn
+BBB,South East Region,488929,60,Withdrawn
+BBB,South East Region,496220,60,Pass
+BBB,South East Region,499067,60,Fail
+BBB,South East Region,505417,120,Withdrawn
+BBB,South East Region,516057,60,Pass
+BBB,South East Region,542562,150,Withdrawn
+BBB,South East Region,548488,60,Withdrawn
+BBB,South East Region,548885,60,Distinction
+BBB,South East Region,552039,60,Distinction
+BBB,South East Region,553125,120,Distinction
+BBB,South East Region,553807,60,Withdrawn
+BBB,South East Region,559350,60,Pass
+BBB,South East Region,2293443,120,Distinction
+BBB,South East Region,125874,60,Withdrawn
+BBB,South East Region,291544,60,Distinction
+BBB,South East Region,325887,60,Pass
+BBB,South East Region,388052,60,Pass
+BBB,South East Region,467330,150,Withdrawn
+BBB,South East Region,508047,120,Withdrawn
+BBB,South East Region,542562,270,Withdrawn
+BBB,South East Region,578447,60,Pass
+BBB,South East Region,580540,120,Pass
+BBB,South East Region,583240,120,Fail
+BBB,South East Region,589508,60,Distinction
+BBB,South East Region,593898,90,Pass
+BBB,South East Region,597451,120,Withdrawn
+BBB,South East Region,598901,120,Withdrawn
+BBB,South East Region,599037,60,Pass
+BBB,South East Region,602666,120,Withdrawn
+BBB,South East Region,603113,120,Withdrawn
+BBB,South East Region,605207,120,Pass
+BBB,South East Region,1778145,60,Pass
+BBB,South East Region,2620432,120,Withdrawn
+BBB,South East Region,63721,60,Distinction
+BBB,South East Region,349401,180,Withdrawn
+BBB,South East Region,511506,60,Fail
+BBB,South East Region,515648,60,Withdrawn
+BBB,South East Region,542562,240,Withdrawn
+BBB,South East Region,543963,180,Withdrawn
+BBB,South East Region,553807,180,Fail
+BBB,South East Region,614601,60,Pass
+BBB,South East Region,625493,60,Withdrawn
+BBB,South East Region,1508708,90,Fail
+BBB,South East Region,2246708,60,Withdrawn
+BBB,South East Region,114402,90,Distinction
+BBB,South East Region,125874,60,Withdrawn
+BBB,South East Region,254313,240,Withdrawn
+BBB,South East Region,395169,60,Withdrawn
+BBB,South East Region,497084,60,Pass
+BBB,South East Region,578551,60,Pass
+BBB,South East Region,584664,120,Withdrawn
+BBB,South East Region,602666,90,Pass
+BBB,South East Region,603113,60,Pass
+BBB,South East Region,678702,60,Withdrawn
+BBB,South East Region,684687,60,Pass
+BBB,South East Region,684931,60,Pass
+BBB,South East Region,695405,60,Fail
+BBB,South East Region,697065,60,Withdrawn
+BBB,South East Region,2603534,60,Withdrawn
+BBB,South Region,108377,120,Pass
+BBB,South Region,262454,120,Fail
+BBB,South Region,299561,60,Withdrawn
+BBB,South Region,341509,180,Pass
+BBB,South Region,390442,60,Distinction
+BBB,South Region,395229,330,Fail
+BBB,South Region,447759,60,Pass
+BBB,South Region,479267,120,Withdrawn
+BBB,South Region,511527,60,Fail
+BBB,South Region,527020,120,Pass
+BBB,South Region,534671,60,Withdrawn
+BBB,South Region,536205,60,Pass
+BBB,South Region,536510,60,Withdrawn
+BBB,South Region,545521,60,Withdrawn
+BBB,South Region,553508,120,Pass
+BBB,South Region,2231614,120,Distinction
+BBB,South Region,2291598,90,Pass
+BBB,South Region,2322046,60,Withdrawn
+BBB,South Region,152867,60,Withdrawn
+BBB,South Region,198339,60,Withdrawn
+BBB,South Region,245987,60,Pass
+BBB,South Region,274247,60,Fail
+BBB,South Region,299561,60,Withdrawn
+BBB,South Region,345083,60,Withdrawn
+BBB,South Region,386889,60,Pass
+BBB,South Region,468482,60,Withdrawn
+BBB,South Region,489320,60,Pass
+BBB,South Region,495035,60,Pass
+BBB,South Region,509390,120,Fail
+BBB,South Region,517016,60,Fail
+BBB,South Region,521341,120,Pass
+BBB,South Region,545521,60,Withdrawn
+BBB,South Region,564958,60,Pass
+BBB,South Region,583012,60,Pass
+BBB,South Region,586535,120,Pass
+BBB,South Region,593189,90,Fail
+BBB,South Region,595672,120,Fail
+BBB,South Region,2001687,60,Pass
+BBB,South Region,2072166,60,Withdrawn
+BBB,South Region,2273256,180,Withdrawn
+BBB,South Region,2680885,60,Distinction
+BBB,South Region,250123,120,Distinction
+BBB,South Region,384884,120,Pass
+BBB,South Region,558595,60,Pass
+BBB,South Region,586111,120,Fail
+BBB,South Region,599769,150,Fail
+BBB,South Region,620408,60,Distinction
+BBB,South Region,622867,60,Fail
+BBB,South Region,624799,60,Fail
+BBB,South Region,627403,120,Fail
+BBB,South Region,629538,60,Withdrawn
+BBB,South Region,631442,60,Fail
+BBB,South Region,2133207,120,Pass
+BBB,South Region,2230457,60,Withdrawn
+BBB,South Region,58520,120,Withdrawn
+BBB,South Region,440912,120,Withdrawn
+BBB,South Region,515329,120,Pass
+BBB,South Region,537640,60,Distinction
+BBB,South Region,582694,60,Withdrawn
+BBB,South Region,591159,60,Withdrawn
+BBB,South Region,600606,60,Pass
+BBB,South Region,646798,60,Pass
+BBB,South Region,652886,90,Pass
+BBB,South Region,655878,60,Withdrawn
+BBB,South Region,657099,120,Fail
+BBB,South Region,692609,60,Distinction
+BBB,South Region,693269,90,Withdrawn
+BBB,South Region,695356,60,Withdrawn
+BBB,South Region,696634,60,Withdrawn
+BBB,South West Region,183806,225,Fail
+BBB,South West Region,288380,120,Fail
+BBB,South West Region,486282,120,Fail
+BBB,South West Region,493515,135,Fail
+BBB,South West Region,501955,120,Fail
+BBB,South West Region,502088,120,Fail
+BBB,South West Region,503878,180,Withdrawn
+BBB,South West Region,521903,120,Fail
+BBB,South West Region,524769,150,Withdrawn
+BBB,South West Region,533324,120,Pass
+BBB,South West Region,545697,60,Pass
+BBB,South West Region,550208,60,Withdrawn
+BBB,South West Region,555338,60,Withdrawn
+BBB,South West Region,556986,60,Withdrawn
+BBB,South West Region,2303034,60,Fail
+BBB,South West Region,30091,60,Pass
+BBB,South West Region,178963,120,Pass
+BBB,South West Region,264842,120,Withdrawn
+BBB,South West Region,278794,60,Pass
+BBB,South West Region,316076,60,Pass
+BBB,South West Region,467606,60,Withdrawn
+BBB,South West Region,501637,120,Pass
+BBB,South West Region,502621,120,Withdrawn
+BBB,South West Region,503878,180,Fail
+BBB,South West Region,510650,120,Withdrawn
+BBB,South West Region,555346,60,Pass
+BBB,South West Region,585915,60,Fail
+BBB,South West Region,607861,60,Withdrawn
+BBB,South West Region,1018682,120,Fail
+BBB,South West Region,1503056,120,Pass
+BBB,South West Region,283978,150,Fail
+BBB,South West Region,356386,60,Fail
+BBB,South West Region,429777,120,Withdrawn
+BBB,South West Region,435282,60,Fail
+BBB,South West Region,621303,60,Fail
+BBB,South West Region,626123,60,Distinction
+BBB,South West Region,630345,60,Fail
+BBB,South West Region,633650,60,Pass
+BBB,South West Region,2417841,60,Withdrawn
+BBB,South West Region,2641682,60,Fail
+BBB,South West Region,2687644,60,Withdrawn
+BBB,South West Region,26734,90,Fail
+BBB,South West Region,98452,120,Withdrawn
+BBB,South West Region,108859,60,Pass
+BBB,South West Region,322574,60,Fail
+BBB,South West Region,469803,120,Withdrawn
+BBB,South West Region,521164,60,Fail
+BBB,South West Region,552698,60,Fail
+BBB,South West Region,601882,120,Withdrawn
+BBB,South West Region,606027,60,Pass
+BBB,South West Region,626159,60,Pass
+BBB,South West Region,645678,120,Pass
+BBB,South West Region,678213,60,Withdrawn
+BBB,South West Region,680453,60,Pass
+BBB,South West Region,689727,60,Pass
+BBB,South West Region,696348,60,Fail
+BBB,South West Region,2213814,60,Withdrawn
+BBB,South West Region,2399380,180,Withdrawn
+BBB,Wales,193822,60,Pass
+BBB,Wales,341229,60,Fail
+BBB,Wales,482945,60,Withdrawn
+BBB,Wales,495674,120,Fail
+BBB,Wales,512180,120,Fail
+BBB,Wales,522383,120,Fail
+BBB,Wales,527382,60,Withdrawn
+BBB,Wales,531573,120,Fail
+BBB,Wales,542260,60,Fail
+BBB,Wales,543124,60,Pass
+BBB,Wales,543180,60,Pass
+BBB,Wales,547873,60,Pass
+BBB,Wales,551053,60,Withdrawn
+BBB,Wales,554206,180,Pass
+BBB,Wales,562495,120,Fail
+BBB,Wales,51301,60,Withdrawn
+BBB,Wales,251815,90,Fail
+BBB,Wales,485006,60,Pass
+BBB,Wales,485439,60,Withdrawn
+BBB,Wales,550941,120,Pass
+BBB,Wales,573208,60,Pass
+BBB,Wales,573275,60,Fail
+BBB,Wales,574708,60,Fail
+BBB,Wales,581826,60,Withdrawn
+BBB,Wales,583007,60,Fail
+BBB,Wales,591895,120,Withdrawn
+BBB,Wales,598202,60,Fail
+BBB,Wales,599644,120,Fail
+BBB,Wales,600476,120,Fail
+BBB,Wales,2271743,180,Withdrawn
+BBB,Wales,88340,60,Withdrawn
+BBB,Wales,183287,90,Withdrawn
+BBB,Wales,190565,60,Pass
+BBB,Wales,483485,60,Pass
+BBB,Wales,505899,60,Pass
+BBB,Wales,513077,120,Fail
+BBB,Wales,551053,120,Fail
+BBB,Wales,588592,240,Withdrawn
+BBB,Wales,599207,60,Pass
+BBB,Wales,613703,75,Fail
+BBB,Wales,618151,60,Pass
+BBB,Wales,619161,60,Fail
+BBB,Wales,630090,60,Fail
+BBB,Wales,635755,60,Distinction
+BBB,Wales,635793,60,Withdrawn
+BBB,Wales,2271743,180,Fail
+BBB,Wales,2534954,60,Pass
+BBB,Wales,2592923,60,Fail
+BBB,Wales,369234,60,Fail
+BBB,Wales,485439,60,Withdrawn
+BBB,Wales,536767,60,Fail
+BBB,Wales,554599,60,Pass
+BBB,Wales,586561,90,Withdrawn
+BBB,Wales,598395,60,Withdrawn
+BBB,Wales,599644,60,Withdrawn
+BBB,Wales,615165,180,Withdrawn
+BBB,Wales,622573,120,Pass
+BBB,Wales,653295,60,Withdrawn
+BBB,Wales,678623,90,Fail
+BBB,Wales,687060,60,Fail
+BBB,Wales,692553,60,Fail
+BBB,Wales,694190,60,Pass
+BBB,Wales,696527,120,Withdrawn
+BBB,Wales,2232976,60,Withdrawn
+BBB,West Midlands Region,126411,60,Fail
+BBB,West Midlands Region,232745,180,Withdrawn
+BBB,West Midlands Region,285633,120,Fail
+BBB,West Midlands Region,360489,240,Withdrawn
+BBB,West Midlands Region,372624,300,Withdrawn
+BBB,West Midlands Region,397763,60,Withdrawn
+BBB,West Midlands Region,427704,120,Pass
+BBB,West Midlands Region,500836,240,Fail
+BBB,West Midlands Region,515311,120,Pass
+BBB,West Midlands Region,519602,60,Pass
+BBB,West Midlands Region,528175,150,Withdrawn
+BBB,West Midlands Region,532710,120,Fail
+BBB,West Midlands Region,534360,60,Pass
+BBB,West Midlands Region,549713,60,Withdrawn
+BBB,West Midlands Region,1993672,60,Withdrawn
+BBB,West Midlands Region,2132811,60,Pass
+BBB,West Midlands Region,2534033,60,Withdrawn
+BBB,West Midlands Region,105851,60,Pass
+BBB,West Midlands Region,133269,60,Withdrawn
+BBB,West Midlands Region,248800,60,Withdrawn
+BBB,West Midlands Region,289753,210,Withdrawn
+BBB,West Midlands Region,385040,120,Fail
+BBB,West Midlands Region,395073,60,Fail
+BBB,West Midlands Region,483744,180,Withdrawn
+BBB,West Midlands Region,507279,60,Fail
+BBB,West Midlands Region,523857,120,Pass
+BBB,West Midlands Region,567958,60,Pass
+BBB,West Midlands Region,595499,60,Fail
+BBB,West Midlands Region,596988,120,Withdrawn
+BBB,West Midlands Region,597689,60,Fail
+BBB,West Midlands Region,598315,60,Fail
+BBB,West Midlands Region,608738,120,Fail
+BBB,West Midlands Region,1411627,180,Pass
+BBB,West Midlands Region,1993672,60,Withdrawn
+BBB,West Midlands Region,2476144,120,Withdrawn
+BBB,West Midlands Region,64275,60,Pass
+BBB,West Midlands Region,369715,120,Pass
+BBB,West Midlands Region,492468,180,Withdrawn
+BBB,West Midlands Region,605771,120,Withdrawn
+BBB,West Midlands Region,615025,60,Pass
+BBB,West Midlands Region,616526,60,Fail
+BBB,West Midlands Region,627316,60,Withdrawn
+BBB,West Midlands Region,630443,120,Pass
+BBB,West Midlands Region,630586,60,Fail
+BBB,West Midlands Region,631561,60,Withdrawn
+BBB,West Midlands Region,632148,60,Fail
+BBB,West Midlands Region,2410331,60,Withdrawn
+BBB,West Midlands Region,2476144,120,Pass
+BBB,West Midlands Region,2609574,60,Withdrawn
+BBB,West Midlands Region,38711,60,Withdrawn
+BBB,West Midlands Region,397414,60,Pass
+BBB,West Midlands Region,423613,120,Withdrawn
+BBB,West Midlands Region,470464,60,Pass
+BBB,West Midlands Region,563820,60,Pass
+BBB,West Midlands Region,596988,60,Pass
+BBB,West Midlands Region,600463,60,Pass
+BBB,West Midlands Region,605089,180,Pass
+BBB,West Midlands Region,605771,60,Pass
+BBB,West Midlands Region,605901,60,Withdrawn
+BBB,West Midlands Region,631561,120,Fail
+BBB,West Midlands Region,648201,60,Withdrawn
+BBB,West Midlands Region,654415,60,Pass
+BBB,West Midlands Region,680862,60,Pass
+BBB,West Midlands Region,684375,60,Pass
+BBB,West Midlands Region,1993672,60,Fail
+BBB,West Midlands Region,2629503,240,Withdrawn
+BBB,Yorkshire Region,476710,120,Pass
+BBB,Yorkshire Region,500585,240,Withdrawn
+BBB,Yorkshire Region,521081,90,Fail
+BBB,Yorkshire Region,533545,60,Pass
+BBB,Yorkshire Region,557935,60,Fail
+BBB,Yorkshire Region,558092,60,Fail
+BBB,Yorkshire Region,1904710,60,Withdrawn
+BBB,Yorkshire Region,352339,90,Withdrawn
+BBB,Yorkshire Region,551628,120,Withdrawn
+BBB,Yorkshire Region,573409,120,Withdrawn
+BBB,Yorkshire Region,594529,120,Distinction
+BBB,Yorkshire Region,604543,60,Pass
+BBB,Yorkshire Region,604610,60,Withdrawn
+BBB,Yorkshire Region,608000,60,Pass
+BBB,Yorkshire Region,572987,180,Withdrawn
+BBB,Yorkshire Region,618539,60,Fail
+BBB,Yorkshire Region,634298,60,Withdrawn
+BBB,Yorkshire Region,2626511,60,Withdrawn
+BBB,Yorkshire Region,293989,60,Withdrawn
+BBB,Yorkshire Region,521081,60,Pass
+BBB,Yorkshire Region,541995,60,Withdrawn
+BBB,Yorkshire Region,581877,60,Pass
+BBB,Yorkshire Region,698586,120,Withdrawn
+BBB,Yorkshire Region,2464901,120,Withdrawn
+BBB,Yorkshire Region,2660510,60,Pass
+CCC,East Anglian Region,59541,30,Withdrawn
+CCC,East Anglian Region,357851,90,Withdrawn
+CCC,East Anglian Region,371113,60,Withdrawn
+CCC,East Anglian Region,388750,210,Withdrawn
+CCC,East Anglian Region,556521,60,Withdrawn
+CCC,East Anglian Region,580477,120,Withdrawn
+CCC,East Anglian Region,586436,60,Fail
+CCC,East Anglian Region,602891,210,Withdrawn
+CCC,East Anglian Region,606282,60,Pass
+CCC,East Anglian Region,621619,60,Withdrawn
+CCC,East Anglian Region,627632,30,Withdrawn
+CCC,East Anglian Region,632554,90,Distinction
+CCC,East Anglian Region,2433221,120,Pass
+CCC,East Anglian Region,61227,30,Pass
+CCC,East Anglian Region,339824,60,Withdrawn
+CCC,East Anglian Region,417724,30,Pass
+CCC,East Anglian Region,470253,90,Withdrawn
+CCC,East Anglian Region,508295,150,Withdrawn
+CCC,East Anglian Region,512330,150,Fail
+CCC,East Anglian Region,556521,30,Withdrawn
+CCC,East Anglian Region,564714,60,Fail
+CCC,East Anglian Region,567597,90,Pass
+CCC,East Anglian Region,586233,90,Withdrawn
+CCC,East Anglian Region,589523,60,Fail
+CCC,East Anglian Region,595495,60,Pass
+CCC,East Anglian Region,597052,90,Pass
+CCC,East Anglian Region,619359,60,Fail
+CCC,East Anglian Region,626463,120,Pass
+CCC,East Anglian Region,629822,60,Withdrawn
+CCC,East Anglian Region,655484,90,Withdrawn
+CCC,East Anglian Region,692603,120,Distinction
+CCC,East Anglian Region,696357,30,Pass
+CCC,East Anglian Region,1692156,120,Pass
+CCC,East Anglian Region,2454119,120,Withdrawn
+CCC,East Midlands Region,235175,90,Withdrawn
+CCC,East Midlands Region,295893,60,Withdrawn
+CCC,East Midlands Region,300594,60,Withdrawn
+CCC,East Midlands Region,412284,150,Fail
+CCC,East Midlands Region,465764,130,Withdrawn
+CCC,East Midlands Region,549636,60,Withdrawn
+CCC,East Midlands Region,554951,60,Pass
+CCC,East Midlands Region,586473,60,Fail
+CCC,East Midlands Region,588059,90,Withdrawn
+CCC,East Midlands Region,589525,60,Distinction
+CCC,East Midlands Region,595164,120,Pass
+CCC,East Midlands Region,599547,120,Withdrawn
+CCC,East Midlands Region,599615,90,Fail
+CCC,East Midlands Region,613447,120,Withdrawn
+CCC,East Midlands Region,2613331,30,Pass
+CCC,East Midlands Region,287897,120,Withdrawn
+CCC,East Midlands Region,367815,120,Withdrawn
+CCC,East Midlands Region,465764,60,Withdrawn
+CCC,East Midlands Region,526132,30,Withdrawn
+CCC,East Midlands Region,537811,120,Distinction
+CCC,East Midlands Region,546654,150,Pass
+CCC,East Midlands Region,565707,150,Withdrawn
+CCC,East Midlands Region,587377,30,Fail
+CCC,East Midlands Region,596620,120,Withdrawn
+CCC,East Midlands Region,610684,60,Withdrawn
+CCC,East Midlands Region,622812,30,Pass
+CCC,East Midlands Region,632575,60,Pass
+CCC,East Midlands Region,688533,30,Withdrawn
+CCC,East Midlands Region,688776,120,Withdrawn
+CCC,East Midlands Region,695354,120,Distinction
+CCC,East Midlands Region,2464386,60,Pass
+CCC,East Midlands Region,2470326,120,Fail
+CCC,Ireland,570671,90,Withdrawn
+CCC,Ireland,620716,60,Pass
+CCC,Ireland,1491894,30,Withdrawn
+CCC,London Region,126395,30,Pass
+CCC,London Region,133104,120,Distinction
+CCC,London Region,168178,30,Pass
+CCC,London Region,421209,60,Pass
+CCC,London Region,440323,30,Withdrawn
+CCC,London Region,494389,120,Fail
+CCC,London Region,525332,60,Fail
+CCC,London Region,553410,60,Withdrawn
+CCC,London Region,560494,90,Pass
+CCC,London Region,570872,90,Pass
+CCC,London Region,607411,180,Withdrawn
+CCC,London Region,607896,150,Withdrawn
+CCC,London Region,631929,60,Withdrawn
+CCC,London Region,1911513,60,Pass
+CCC,London Region,2110039,90,Withdrawn
+CCC,London Region,2229583,30,Withdrawn
+CCC,London Region,2239848,60,Pass
+CCC,London Region,2464727,60,Withdrawn
+CCC,London Region,101700,60,Withdrawn
+CCC,London Region,144745,30,Pass
+CCC,London Region,350929,60,Withdrawn
+CCC,London Region,367510,150,Withdrawn
+CCC,London Region,393526,60,Withdrawn
+CCC,London Region,415023,60,Withdrawn
+CCC,London Region,492537,30,Fail
+CCC,London Region,503779,60,Distinction
+CCC,London Region,556476,120,Fail
+CCC,London Region,592657,120,Withdrawn
+CCC,London Region,605540,90,Distinction
+CCC,London Region,626768,30,Withdrawn
+CCC,London Region,643434,60,Withdrawn
+CCC,London Region,647869,120,Withdrawn
+CCC,London Region,654322,120,Distinction
+CCC,London Region,680027,120,Distinction
+CCC,London Region,683449,120,Withdrawn
+CCC,London Region,686813,150,Withdrawn
+CCC,London Region,687348,120,Withdrawn
+CCC,London Region,2502882,30,Withdrawn
+CCC,North Region,488431,90,Pass
+CCC,North Region,504057,60,Withdrawn
+CCC,North Region,537654,30,Withdrawn
+CCC,North Region,574580,150,Fail
+CCC,North Region,630896,60,Distinction
+CCC,North Region,633493,30,Distinction
+CCC,North Region,2498388,30,Pass
+CCC,North Region,2607849,90,Distinction
+CCC,North Region,188251,30,Fail
+CCC,North Region,513918,60,Withdrawn
+CCC,North Region,537654,30,Pass
+CCC,North Region,605840,60,Fail
+CCC,North Region,611542,60,Pass
+CCC,North Region,637754,120,Distinction
+CCC,North Region,654031,60,Pass
+CCC,North Region,682309,60,Withdrawn
+CCC,North Region,696501,120,Withdrawn
+CCC,North Western Region,129198,150,Withdrawn
+CCC,North Western Region,316061,180,Fail
+CCC,North Western Region,394791,90,Withdrawn
+CCC,North Western Region,486737,60,Withdrawn
+CCC,North Western Region,506206,30,Distinction
+CCC,North Western Region,515936,180,Withdrawn
+CCC,North Western Region,535590,90,Withdrawn
+CCC,North Western Region,537622,90,Withdrawn
+CCC,North Western Region,539695,60,Withdrawn
+CCC,North Western Region,543170,90,Pass
+CCC,North Western Region,560114,30,Pass
+CCC,North Western Region,564325,120,Withdrawn
+CCC,North Western Region,592284,120,Withdrawn
+CCC,North Western Region,608549,120,Withdrawn
+CCC,North Western Region,616333,60,Fail
+CCC,North Western Region,620215,60,Withdrawn
+CCC,North Western Region,620320,120,Withdrawn
+CCC,North Western Region,625128,60,Fail
+CCC,North Western Region,629632,90,Withdrawn
+CCC,North Western Region,629906,60,Withdrawn
+CCC,North Western Region,2493107,90,Withdrawn
+CCC,North Western Region,2564333,60,Withdrawn
+CCC,North Western Region,129198,60,Withdrawn
+CCC,North Western Region,316454,120,Withdrawn
+CCC,North Western Region,370839,120,Withdrawn
+CCC,North Western Region,394791,60,Pass
+CCC,North Western Region,523944,60,Pass
+CCC,North Western Region,554691,60,Withdrawn
+CCC,North Western Region,563951,150,Withdrawn
+CCC,North Western Region,570717,90,Withdrawn
+CCC,North Western Region,582550,60,Pass
+CCC,North Western Region,608681,60,Fail
+CCC,North Western Region,627295,120,Withdrawn
+CCC,North Western Region,678339,120,Pass
+CCC,North Western Region,680145,90,Withdrawn
+CCC,North Western Region,686584,120,Pass
+CCC,North Western Region,689346,120,Withdrawn
+CCC,North Western Region,2063436,60,Withdrawn
+CCC,North Western Region,2504694,90,Withdrawn
+CCC,North Western Region,2564333,60,Withdrawn
+CCC,Scotland,123598,90,Withdrawn
+CCC,Scotland,165733,90,Withdrawn
+CCC,Scotland,170864,60,Distinction
+CCC,Scotland,272103,90,Withdrawn
+CCC,Scotland,305876,120,Fail
+CCC,Scotland,383015,150,Withdrawn
+CCC,Scotland,404239,60,Fail
+CCC,Scotland,406265,30,Withdrawn
+CCC,Scotland,426610,120,Pass
+CCC,Scotland,426616,60,Fail
+CCC,Scotland,479753,60,Withdrawn
+CCC,Scotland,490297,150,Withdrawn
+CCC,Scotland,490665,120,Withdrawn
+CCC,Scotland,494919,60,Pass
+CCC,Scotland,514186,90,Fail
+CCC,Scotland,571129,30,Distinction
+CCC,Scotland,580689,90,Withdrawn
+CCC,Scotland,588590,30,Fail
+CCC,Scotland,592051,120,Withdrawn
+CCC,Scotland,614804,90,Withdrawn
+CCC,Scotland,627933,120,Fail
+CCC,Scotland,628718,90,Withdrawn
+CCC,Scotland,1951139,30,Pass
+CCC,Scotland,2056643,60,Distinction
+CCC,Scotland,2680742,30,Pass
+CCC,Scotland,123598,60,Pass
+CCC,Scotland,165733,30,Withdrawn
+CCC,Scotland,238255,30,Withdrawn
+CCC,Scotland,423622,120,Fail
+CCC,Scotland,425053,60,Fail
+CCC,Scotland,542167,60,Pass
+CCC,Scotland,556440,120,Fail
+CCC,Scotland,556450,60,Fail
+CCC,Scotland,561009,120,Pass
+CCC,Scotland,570954,60,Withdrawn
+CCC,Scotland,572231,60,Pass
+CCC,Scotland,572754,90,Withdrawn
+CCC,Scotland,584443,150,Withdrawn
+CCC,Scotland,588824,60,Withdrawn
+CCC,Scotland,592051,90,Pass
+CCC,Scotland,599169,120,Pass
+CCC,Scotland,614804,60,Pass
+CCC,Scotland,622384,90,Fail
+CCC,Scotland,624789,60,Pass
+CCC,Scotland,636996,90,Pass
+CCC,Scotland,637070,60,Pass
+CCC,Scotland,650070,90,Withdrawn
+CCC,Scotland,680002,120,Distinction
+CCC,Scotland,684663,120,Fail
+CCC,Scotland,685619,105,Withdrawn
+CCC,Scotland,685750,180,Withdrawn
+CCC,Scotland,696833,90,Pass
+CCC,Scotland,698024,120,Fail
+CCC,Scotland,1864086,60,Withdrawn
+CCC,Scotland,1958121,60,Distinction
+CCC,Scotland,1960479,30,Pass
+CCC,Scotland,2483382,60,Withdrawn
+CCC,Scotland,2622627,180,Withdrawn
+CCC,South East Region,289397,60,Withdrawn
+CCC,South East Region,359460,90,Withdrawn
+CCC,South East Region,442530,120,Withdrawn
+CCC,South East Region,490282,60,Pass
+CCC,South East Region,491232,60,Fail
+CCC,South East Region,491843,30,Withdrawn
+CCC,South East Region,521297,60,Pass
+CCC,South East Region,563819,90,Pass
+CCC,South East Region,569108,30,Distinction
+CCC,South East Region,589108,90,Withdrawn
+CCC,South East Region,594199,90,Withdrawn
+CCC,South East Region,618744,90,Withdrawn
+CCC,South East Region,624875,30,Distinction
+CCC,South East Region,629773,90,Withdrawn
+CCC,South East Region,2524572,90,Withdrawn
+CCC,South East Region,289397,60,Fail
+CCC,South East Region,443837,120,Withdrawn
+CCC,South East Region,545704,60,Pass
+CCC,South East Region,581410,90,Withdrawn
+CCC,South East Region,589778,30,Pass
+CCC,South East Region,591593,90,Withdrawn
+CCC,South East Region,591891,60,Pass
+CCC,South East Region,592950,60,Withdrawn
+CCC,South East Region,596052,120,Withdrawn
+CCC,South East Region,603325,60,Distinction
+CCC,South East Region,607429,30,Pass
+CCC,South East Region,628216,60,Pass
+CCC,South East Region,628706,150,Withdrawn
+CCC,South East Region,632929,60,Withdrawn
+CCC,South East Region,636628,120,Withdrawn
+CCC,South Region,189428,30,Pass
+CCC,South Region,300059,180,Pass
+CCC,South Region,314555,120,Withdrawn
+CCC,South Region,390233,60,Withdrawn
+CCC,South Region,474759,30,Fail
+CCC,South Region,493793,180,Withdrawn
+CCC,South Region,569712,120,Withdrawn
+CCC,South Region,580722,60,Withdrawn
+CCC,South Region,584586,120,Withdrawn
+CCC,South Region,606417,60,Withdrawn
+CCC,South Region,614059,90,Pass
+CCC,South Region,614265,120,Withdrawn
+CCC,South Region,618590,90,Withdrawn
+CCC,South Region,622368,60,Pass
+CCC,South Region,631334,60,Pass
+CCC,South Region,633071,30,Withdrawn
+CCC,South Region,1474869,630,Pass
+CCC,South Region,1780737,60,Withdrawn
+CCC,South Region,2088765,60,Pass
+CCC,South Region,2454878,90,Fail
+CCC,South Region,2620636,30,Fail
+CCC,South Region,160536,180,Pass
+CCC,South Region,256680,60,Withdrawn
+CCC,South Region,314555,120,Withdrawn
+CCC,South Region,418397,60,Pass
+CCC,South Region,580722,60,Withdrawn
+CCC,South Region,583993,60,Fail
+CCC,South Region,601857,120,Withdrawn
+CCC,South Region,614265,60,Pass
+CCC,South Region,618590,60,Fail
+CCC,South Region,622096,60,Withdrawn
+CCC,South Region,623002,60,Fail
+CCC,South Region,625218,90,Withdrawn
+CCC,South Region,635410,150,Withdrawn
+CCC,South Region,645481,60,Withdrawn
+CCC,South Region,652945,120,Withdrawn
+CCC,South Region,654671,150,Withdrawn
+CCC,South Region,694705,180,Withdrawn
+CCC,South Region,1738582,120,Distinction
+CCC,South Region,2388623,60,Fail
+CCC,South Region,2558071,30,Pass
+CCC,South Region,2619472,120,Withdrawn
+CCC,South West Region,267118,90,Withdrawn
+CCC,South West Region,357214,60,Withdrawn
+CCC,South West Region,418623,90,Pass
+CCC,South West Region,466714,120,Withdrawn
+CCC,South West Region,492900,60,Pass
+CCC,South West Region,501339,30,Withdrawn
+CCC,South West Region,515046,60,Pass
+CCC,South West Region,585695,90,Distinction
+CCC,South West Region,594193,60,Fail
+CCC,South West Region,618649,90,Withdrawn
+CCC,South West Region,620713,120,Withdrawn
+CCC,South West Region,620974,90,Withdrawn
+CCC,South West Region,634128,60,Pass
+CCC,South West Region,2327710,355,Withdrawn
+CCC,South West Region,2564711,60,Distinction
+CCC,South West Region,2631703,60,Distinction
+CCC,South West Region,447644,90,Distinction
+CCC,South West Region,448370,60,Withdrawn
+CCC,South West Region,522754,60,Pass
+CCC,South West Region,542180,300,Withdrawn
+CCC,South West Region,558440,120,Withdrawn
+CCC,South West Region,581656,60,Pass
+CCC,South West Region,587195,30,Withdrawn
+CCC,South West Region,603302,90,Withdrawn
+CCC,South West Region,605468,60,Withdrawn
+CCC,South West Region,607427,180,Withdrawn
+CCC,South West Region,618649,60,Pass
+CCC,South West Region,627527,120,Pass
+CCC,South West Region,627581,90,Withdrawn
+CCC,South West Region,640773,150,Pass
+CCC,South West Region,646077,120,Withdrawn
+CCC,South West Region,646589,120,Pass
+CCC,South West Region,647947,210,Withdrawn
+CCC,South West Region,649780,90,Withdrawn
+CCC,South West Region,681731,30,Distinction
+CCC,South West Region,685487,60,Distinction
+CCC,South West Region,696253,120,Withdrawn
+CCC,South West Region,2138904,60,Withdrawn
+CCC,South West Region,2422258,90,Withdrawn
+CCC,South West Region,2596553,30,Withdrawn
+CCC,South West Region,2633981,60,Withdrawn
+CCC,Wales,476868,60,Withdrawn
+CCC,Wales,490587,120,Fail
+CCC,Wales,579550,120,Pass
+CCC,Wales,604655,90,Fail
+CCC,Wales,632571,30,Pass
+CCC,Wales,342799,30,Pass
+CCC,Wales,401011,30,Withdrawn
+CCC,Wales,491926,90,Withdrawn
+CCC,Wales,547128,180,Withdrawn
+CCC,Wales,629056,60,Withdrawn
+CCC,Wales,655293,120,Withdrawn
+CCC,Wales,674430,60,Withdrawn
+CCC,Wales,675477,30,Pass
+CCC,West Midlands Region,94484,120,Pass
+CCC,West Midlands Region,132191,60,Withdrawn
+CCC,West Midlands Region,440591,100,Withdrawn
+CCC,West Midlands Region,600436,120,Withdrawn
+CCC,West Midlands Region,623562,60,Pass
+CCC,West Midlands Region,625975,60,Fail
+CCC,West Midlands Region,2410459,30,Fail
+CCC,West Midlands Region,182854,80,Pass
+CCC,West Midlands Region,328123,60,Fail
+CCC,West Midlands Region,572599,60,Withdrawn
+CCC,West Midlands Region,602533,60,Distinction
+CCC,West Midlands Region,638243,120,Withdrawn
+CCC,West Midlands Region,640443,120,Withdrawn
+CCC,West Midlands Region,647417,120,Withdrawn
+CCC,West Midlands Region,655953,120,Withdrawn
+CCC,West Midlands Region,688171,120,Withdrawn
+CCC,West Midlands Region,693938,60,Pass
+CCC,West Midlands Region,695643,150,Withdrawn
+CCC,West Midlands Region,2619025,60,Pass
+CCC,Yorkshire Region,262391,240,Withdrawn
+CCC,Yorkshire Region,266558,90,Withdrawn
+CCC,Yorkshire Region,359114,60,Pass
+CCC,Yorkshire Region,395164,150,Withdrawn
+CCC,Yorkshire Region,480928,150,Withdrawn
+CCC,Yorkshire Region,500006,60,Fail
+CCC,Yorkshire Region,505815,90,Withdrawn
+CCC,Yorkshire Region,615229,60,Pass
+CCC,Yorkshire Region,266558,30,Fail
+CCC,Yorkshire Region,505815,30,Withdrawn
+CCC,Yorkshire Region,511350,90,Fail
+CCC,Yorkshire Region,639176,360,Withdrawn
+CCC,Yorkshire Region,697948,150,Withdrawn
+DDD,East Anglian Region,262396,60,Fail
+DDD,East Anglian Region,289564,60,Fail
+DDD,East Anglian Region,305313,180,Withdrawn
+DDD,East Anglian Region,387335,60,Withdrawn
+DDD,East Anglian Region,465727,60,Pass
+DDD,East Anglian Region,479347,70,Withdrawn
+DDD,East Anglian Region,491885,210,Withdrawn
+DDD,East Anglian Region,498363,120,Withdrawn
+DDD,East Anglian Region,509634,240,Withdrawn
+DDD,East Anglian Region,531069,60,Withdrawn
+DDD,East Anglian Region,540298,60,Fail
+DDD,East Anglian Region,545115,60,Fail
+DDD,East Anglian Region,547787,60,Withdrawn
+DDD,East Anglian Region,548739,60,Withdrawn
+DDD,East Anglian Region,557826,60,Withdrawn
+DDD,East Anglian Region,2332060,60,Pass
+DDD,East Anglian Region,2594888,200,Pass
+DDD,East Anglian Region,2639451,180,Distinction
+DDD,East Anglian Region,27935,60,Fail
+DDD,East Anglian Region,42818,180,Fail
+DDD,East Anglian Region,50610,70,Fail
+DDD,East Anglian Region,108275,120,Withdrawn
+DDD,East Anglian Region,140807,60,Pass
+DDD,East Anglian Region,366449,120,Pass
+DDD,East Anglian Region,419192,60,Distinction
+DDD,East Anglian Region,426097,120,Withdrawn
+DDD,East Anglian Region,437923,90,Pass
+DDD,East Anglian Region,497994,90,Pass
+DDD,East Anglian Region,500707,60,Withdrawn
+DDD,East Anglian Region,504064,120,Withdrawn
+DDD,East Anglian Region,506476,60,Withdrawn
+DDD,East Anglian Region,509501,120,Withdrawn
+DDD,East Anglian Region,525456,60,Pass
+DDD,East Anglian Region,532941,90,Fail
+DDD,East Anglian Region,541108,60,Pass
+DDD,East Anglian Region,559123,60,Pass
+DDD,East Anglian Region,571682,120,Withdrawn
+DDD,East Anglian Region,584433,120,Pass
+DDD,East Anglian Region,585208,60,Withdrawn
+DDD,East Anglian Region,587099,60,Withdrawn
+DDD,East Anglian Region,592315,120,Pass
+DDD,East Anglian Region,595495,60,Pass
+DDD,East Anglian Region,604546,60,Withdrawn
+DDD,East Anglian Region,604912,90,Withdrawn
+DDD,East Anglian Region,1507503,60,Pass
+DDD,East Anglian Region,1644568,60,Fail
+DDD,East Anglian Region,1716492,60,Fail
+DDD,East Anglian Region,2588379,60,Fail
+DDD,East Anglian Region,348439,60,Withdrawn
+DDD,East Anglian Region,410816,330,Withdrawn
+DDD,East Anglian Region,498363,90,Pass
+DDD,East Anglian Region,502161,60,Fail
+DDD,East Anglian Region,531069,120,Withdrawn
+DDD,East Anglian Region,563763,60,Pass
+DDD,East Anglian Region,614241,60,Fail
+DDD,East Anglian Region,616874,60,Withdrawn
+DDD,East Anglian Region,618583,90,Withdrawn
+DDD,East Anglian Region,619359,60,Distinction
+DDD,East Anglian Region,628858,60,Withdrawn
+DDD,East Anglian Region,629822,60,Pass
+DDD,East Anglian Region,632314,60,Withdrawn
+DDD,East Anglian Region,632680,60,Distinction
+DDD,East Anglian Region,2686865,60,Pass
+DDD,East Anglian Region,349910,60,Pass
+DDD,East Anglian Region,478326,240,Withdrawn
+DDD,East Anglian Region,500707,60,Fail
+DDD,East Anglian Region,504064,60,Fail
+DDD,East Anglian Region,567597,90,Withdrawn
+DDD,East Anglian Region,598493,60,Withdrawn
+DDD,East Anglian Region,600554,60,Withdrawn
+DDD,East Anglian Region,632314,120,Fail
+DDD,East Anglian Region,636712,120,Withdrawn
+DDD,East Anglian Region,641557,210,Withdrawn
+DDD,East Anglian Region,642625,120,Fail
+DDD,East Anglian Region,643006,120,Pass
+DDD,East Anglian Region,646952,120,Fail
+DDD,East Anglian Region,647604,240,Fail
+DDD,East Anglian Region,655930,120,Withdrawn
+DDD,East Anglian Region,680331,120,Fail
+DDD,East Anglian Region,680733,120,Withdrawn
+DDD,East Anglian Region,682385,60,Fail
+DDD,East Anglian Region,687446,60,Fail
+DDD,East Anglian Region,692603,120,Distinction
+DDD,East Anglian Region,694634,60,Pass
+DDD,East Anglian Region,2698109,60,Withdrawn
+DDD,East Midlands Region,364440,240,Withdrawn
+DDD,East Midlands Region,400759,60,Pass
+DDD,East Midlands Region,465399,180,Withdrawn
+DDD,East Midlands Region,465764,60,Pass
+DDD,East Midlands Region,495115,90,Withdrawn
+DDD,East Midlands Region,546654,60,Withdrawn
+DDD,East Midlands Region,549913,60,Withdrawn
+DDD,East Midlands Region,596620,90,Withdrawn
+DDD,East Midlands Region,2126013,60,Withdrawn
+DDD,East Midlands Region,2604698,300,Withdrawn
+DDD,East Midlands Region,2694933,60,Pass
+DDD,East Midlands Region,282317,60,Pass
+DDD,East Midlands Region,299473,60,Fail
+DDD,East Midlands Region,373237,150,Fail
+DDD,East Midlands Region,410767,90,Withdrawn
+DDD,East Midlands Region,415151,180,Withdrawn
+DDD,East Midlands Region,416243,60,Pass
+DDD,East Midlands Region,465399,60,Withdrawn
+DDD,East Midlands Region,495115,60,Withdrawn
+DDD,East Midlands Region,505561,120,Withdrawn
+DDD,East Midlands Region,511636,120,Withdrawn
+DDD,East Midlands Region,512706,60,Fail
+DDD,East Midlands Region,537811,60,Distinction
+DDD,East Midlands Region,538903,60,Pass
+DDD,East Midlands Region,572281,120,Withdrawn
+DDD,East Midlands Region,578303,60,Pass
+DDD,East Midlands Region,584517,120,Withdrawn
+DDD,East Midlands Region,590380,60,Withdrawn
+DDD,East Midlands Region,590392,60,Pass
+DDD,East Midlands Region,596620,60,Withdrawn
+DDD,East Midlands Region,599615,90,Withdrawn
+DDD,East Midlands Region,603431,60,Pass
+DDD,East Midlands Region,2032882,60,Withdrawn
+DDD,East Midlands Region,2321492,150,Withdrawn
+DDD,East Midlands Region,2430405,60,Pass
+DDD,East Midlands Region,2648317,60,Withdrawn
+DDD,East Midlands Region,76081,150,Withdrawn
+DDD,East Midlands Region,277166,90,Pass
+DDD,East Midlands Region,415151,120,Fail
+DDD,East Midlands Region,505561,120,Fail
+DDD,East Midlands Region,546654,60,Distinction
+DDD,East Midlands Region,588059,90,Withdrawn
+DDD,East Midlands Region,597242,120,Withdrawn
+DDD,East Midlands Region,609265,60,Pass
+DDD,East Midlands Region,622281,60,Withdrawn
+DDD,East Midlands Region,622873,60,Withdrawn
+DDD,East Midlands Region,1981053,120,Withdrawn
+DDD,East Midlands Region,2689501,60,Withdrawn
+DDD,East Midlands Region,69239,90,Withdrawn
+DDD,East Midlands Region,76081,150,Pass
+DDD,East Midlands Region,287897,120,Withdrawn
+DDD,East Midlands Region,410767,90,Pass
+DDD,East Midlands Region,516562,75,Fail
+DDD,East Midlands Region,572281,60,Pass
+DDD,East Midlands Region,596620,120,Withdrawn
+DDD,East Midlands Region,608775,120,Pass
+DDD,East Midlands Region,626386,330,Withdrawn
+DDD,East Midlands Region,634693,120,Withdrawn
+DDD,East Midlands Region,635255,60,Distinction
+DDD,East Midlands Region,653723,120,Withdrawn
+DDD,East Midlands Region,653942,90,Withdrawn
+DDD,East Midlands Region,656164,60,Fail
+DDD,East Midlands Region,679000,180,Withdrawn
+DDD,East Midlands Region,2032882,60,Pass
+DDD,East Midlands Region,2464683,60,Withdrawn
+DDD,Ireland,527619,160,Withdrawn
+DDD,Ireland,536210,120,Withdrawn
+DDD,Ireland,2046628,90,Withdrawn
+DDD,Ireland,91354,60,Withdrawn
+DDD,Ireland,536210,60,Withdrawn
+DDD,Ireland,544576,60,Pass
+DDD,Ireland,570671,120,Pass
+DDD,Ireland,2046628,120,Withdrawn
+DDD,Ireland,539060,120,Withdrawn
+DDD,Ireland,2046628,120,Withdrawn
+DDD,Ireland,2356318,60,Fail
+DDD,Ireland,675256,120,Distinction
+DDD,Ireland,679395,60,Fail
+DDD,Ireland,2046628,120,Withdrawn
+DDD,London Region,67785,120,Pass
+DDD,London Region,384246,60,Pass
+DDD,London Region,430055,120,Withdrawn
+DDD,London Region,549361,60,Withdrawn
+DDD,London Region,550205,60,Withdrawn
+DDD,London Region,550974,60,Fail
+DDD,London Region,555740,60,Pass
+DDD,London Region,2685825,60,Fail
+DDD,London Region,108789,70,Fail
+DDD,London Region,237418,90,Withdrawn
+DDD,London Region,350929,60,Distinction
+DDD,London Region,363990,60,Fail
+DDD,London Region,392626,180,Fail
+DDD,London Region,494389,120,Withdrawn
+DDD,London Region,523583,120,Withdrawn
+DDD,London Region,570872,90,Pass
+DDD,London Region,575773,120,Withdrawn
+DDD,London Region,585210,60,Fail
+DDD,London Region,597192,150,Withdrawn
+DDD,London Region,601293,90,Pass
+DDD,London Region,602692,120,Withdrawn
+DDD,London Region,605540,90,Distinction
+DDD,London Region,606788,90,Distinction
+DDD,London Region,1894634,180,Pass
+DDD,London Region,124134,60,Fail
+DDD,London Region,492537,60,Pass
+DDD,London Region,523583,120,Fail
+DDD,London Region,560944,120,Pass
+DDD,London Region,575773,120,Fail
+DDD,London Region,579134,60,Pass
+DDD,London Region,607946,120,Withdrawn
+DDD,London Region,623008,60,Pass
+DDD,London Region,2110039,90,Withdrawn
+DDD,London Region,2544678,60,Withdrawn
+DDD,London Region,132157,60,Fail
+DDD,London Region,236017,120,Withdrawn
+DDD,London Region,409120,60,Withdrawn
+DDD,London Region,424211,60,Pass
+DDD,London Region,628593,60,Pass
+DDD,London Region,646006,90,Withdrawn
+DDD,London Region,647468,150,Withdrawn
+DDD,London Region,2226202,180,Pass
+DDD,London Region,2544678,60,Fail
+DDD,North Region,92775,60,Fail
+DDD,North Region,138709,60,Withdrawn
+DDD,North Region,483869,180,Fail
+DDD,North Region,518349,60,Pass
+DDD,North Region,536999,60,Withdrawn
+DDD,North Region,2498388,60,Pass
+DDD,North Region,138709,60,Withdrawn
+DDD,North Region,281656,210,Withdrawn
+DDD,North Region,494728,60,Withdrawn
+DDD,North Region,610603,60,Pass
+DDD,North Region,536999,60,Withdrawn
+DDD,North Region,610228,90,Withdrawn
+DDD,North Region,627616,60,Withdrawn
+DDD,North Region,46812,180,Withdrawn
+DDD,North Region,495493,60,Pass
+DDD,North Region,585832,60,Pass
+DDD,North Region,651048,60,Fail
+DDD,North Region,674879,90,Distinction
+DDD,North Region,686766,90,Pass
+DDD,North Region,689990,120,Distinction
+DDD,North Region,690867,60,Withdrawn
+DDD,North Region,693441,120,Pass
+DDD,North Region,696501,120,Withdrawn
+DDD,North Western Region,89051,120,Pass
+DDD,North Western Region,124728,150,Withdrawn
+DDD,North Western Region,142998,120,Withdrawn
+DDD,North Western Region,444713,90,Withdrawn
+DDD,North Western Region,474451,60,Fail
+DDD,North Western Region,480207,120,Pass
+DDD,North Western Region,491757,210,Withdrawn
+DDD,North Western Region,497584,90,Withdrawn
+DDD,North Western Region,512404,180,Withdrawn
+DDD,North Western Region,514633,120,Fail
+DDD,North Western Region,529877,90,Withdrawn
+DDD,North Western Region,531377,60,Fail
+DDD,North Western Region,537622,60,Pass
+DDD,North Western Region,554295,90,Pass
+DDD,North Western Region,554691,60,Withdrawn
+DDD,North Western Region,557083,180,Withdrawn
+DDD,North Western Region,560114,60,Pass
+DDD,North Western Region,2195445,60,Pass
+DDD,North Western Region,2435965,120,Withdrawn
+DDD,North Western Region,2543600,120,Pass
+DDD,North Western Region,66047,90,Withdrawn
+DDD,North Western Region,142998,120,Withdrawn
+DDD,North Western Region,268817,90,Withdrawn
+DDD,North Western Region,492842,60,Withdrawn
+DDD,North Western Region,554691,60,Pass
+DDD,North Western Region,562100,60,Withdrawn
+DDD,North Western Region,562287,60,Withdrawn
+DDD,North Western Region,562758,180,Withdrawn
+DDD,North Western Region,564325,120,Withdrawn
+DDD,North Western Region,592284,120,Fail
+DDD,North Western Region,594164,120,Withdrawn
+DDD,North Western Region,599725,120,Pass
+DDD,North Western Region,605105,90,Fail
+DDD,North Western Region,1868389,60,Fail
+DDD,North Western Region,1963677,60,Pass
+DDD,North Western Region,2692186,60,Pass
+DDD,North Western Region,124847,210,Withdrawn
+DDD,North Western Region,387656,60,Withdrawn
+DDD,North Western Region,421877,120,Withdrawn
+DDD,North Western Region,474451,60,Fail
+DDD,North Western Region,570215,60,Pass
+DDD,North Western Region,581909,240,Fail
+DDD,North Western Region,616862,60,Withdrawn
+DDD,North Western Region,621457,60,Distinction
+DDD,North Western Region,629632,90,Withdrawn
+DDD,North Western Region,629898,60,Pass
+DDD,North Western Region,1804143,60,Withdrawn
+DDD,North Western Region,1994454,60,Withdrawn
+DDD,North Western Region,2151748,60,Withdrawn
+DDD,North Western Region,2588215,120,Withdrawn
+DDD,North Western Region,2588543,60,Fail
+DDD,North Western Region,124728,60,Withdrawn
+DDD,North Western Region,146943,120,Withdrawn
+DDD,North Western Region,395535,60,Withdrawn
+DDD,North Western Region,493826,120,Withdrawn
+DDD,North Western Region,497989,120,Withdrawn
+DDD,North Western Region,557083,120,Withdrawn
+DDD,North Western Region,562100,60,Withdrawn
+DDD,North Western Region,572156,60,Pass
+DDD,North Western Region,575272,70,Withdrawn
+DDD,North Western Region,594164,270,Withdrawn
+DDD,North Western Region,616862,60,Withdrawn
+DDD,North Western Region,618825,120,Withdrawn
+DDD,North Western Region,627295,120,Pass
+DDD,North Western Region,675052,120,Withdrawn
+DDD,North Western Region,683487,180,Withdrawn
+DDD,North Western Region,686584,120,Pass
+DDD,North Western Region,689346,120,Withdrawn
+DDD,North Western Region,693047,120,Withdrawn
+DDD,North Western Region,1082062,60,Distinction
+DDD,North Western Region,1804143,60,Pass
+DDD,North Western Region,2588215,60,Fail
+DDD,North Western Region,2612069,60,Fail
+DDD,Scotland,81351,60,Fail
+DDD,Scotland,165733,60,Fail
+DDD,Scotland,180958,150,Pass
+DDD,Scotland,191195,120,Fail
+DDD,Scotland,281271,60,Withdrawn
+DDD,Scotland,307158,90,Fail
+DDD,Scotland,310865,120,Withdrawn
+DDD,Scotland,311117,60,Withdrawn
+DDD,Scotland,333856,120,Pass
+DDD,Scotland,335264,60,Withdrawn
+DDD,Scotland,487267,60,Withdrawn
+DDD,Scotland,494919,60,Pass
+DDD,Scotland,495786,120,Fail
+DDD,Scotland,498320,70,Pass
+DDD,Scotland,518097,120,Fail
+DDD,Scotland,524261,120,Withdrawn
+DDD,Scotland,546293,60,Withdrawn
+DDD,Scotland,546339,60,Withdrawn
+DDD,Scotland,554484,60,Pass
+DDD,Scotland,557237,60,Fail
+DDD,Scotland,2526483,60,Fail
+DDD,Scotland,2689536,120,Pass
+DDD,Scotland,123598,90,Distinction
+DDD,Scotland,124006,70,Pass
+DDD,Scotland,130837,60,Fail
+DDD,Scotland,311117,60,Withdrawn
+DDD,Scotland,334255,60,Pass
+DDD,Scotland,350164,60,Withdrawn
+DDD,Scotland,490297,150,Withdrawn
+DDD,Scotland,493879,120,Withdrawn
+DDD,Scotland,500521,90,Withdrawn
+DDD,Scotland,515520,60,Pass
+DDD,Scotland,524261,60,Withdrawn
+DDD,Scotland,546293,60,Fail
+DDD,Scotland,552537,120,Pass
+DDD,Scotland,555791,60,Fail
+DDD,Scotland,564454,60,Fail
+DDD,Scotland,572231,150,Pass
+DDD,Scotland,572754,120,Pass
+DDD,Scotland,577196,120,Withdrawn
+DDD,Scotland,579717,120,Pass
+DDD,Scotland,588824,60,Pass
+DDD,Scotland,591852,120,Withdrawn
+DDD,Scotland,599169,60,Pass
+DDD,Scotland,599837,120,Withdrawn
+DDD,Scotland,607485,60,Pass
+DDD,Scotland,1509881,60,Fail
+DDD,Scotland,1679862,135,Fail
+DDD,Scotland,2215898,60,Pass
+DDD,Scotland,2434369,240,Distinction
+DDD,Scotland,2437065,60,Distinction
+DDD,Scotland,2552672,60,Pass
+DDD,Scotland,2642498,120,Withdrawn
+DDD,Scotland,90537,60,Pass
+DDD,Scotland,97939,60,Fail
+DDD,Scotland,118578,100,Withdrawn
+DDD,Scotland,493879,120,Withdrawn
+DDD,Scotland,518265,60,Withdrawn
+DDD,Scotland,565851,60,Fail
+DDD,Scotland,580912,90,Pass
+DDD,Scotland,591852,120,Withdrawn
+DDD,Scotland,604704,120,Withdrawn
+DDD,Scotland,613876,60,Fail
+DDD,Scotland,614804,90,Pass
+DDD,Scotland,624789,60,Pass
+DDD,Scotland,626114,60,Distinction
+DDD,Scotland,629000,60,Fail
+DDD,Scotland,1531649,60,Withdrawn
+DDD,Scotland,1735653,240,Pass
+DDD,Scotland,2188469,75,Fail
+DDD,Scotland,2669995,60,Pass
+DDD,Scotland,51955,60,Fail
+DDD,Scotland,118578,60,Withdrawn
+DDD,Scotland,243025,60,Pass
+DDD,Scotland,353969,60,Withdrawn
+DDD,Scotland,393727,60,Pass
+DDD,Scotland,436898,85,Distinction
+DDD,Scotland,557237,120,Pass
+DDD,Scotland,562619,210,Withdrawn
+DDD,Scotland,577196,60,Pass
+DDD,Scotland,591852,60,Withdrawn
+DDD,Scotland,599837,60,Fail
+DDD,Scotland,622384,90,Fail
+DDD,Scotland,626179,60,Pass
+DDD,Scotland,633414,120,Fail
+DDD,Scotland,633574,120,Pass
+DDD,Scotland,647565,120,Withdrawn
+DDD,Scotland,647879,90,Pass
+DDD,Scotland,648172,60,Pass
+DDD,Scotland,648597,60,Fail
+DDD,Scotland,649214,60,Pass
+DDD,Scotland,650515,120,Withdrawn
+DDD,Scotland,650993,60,Pass
+DDD,Scotland,651728,60,Withdrawn
+DDD,Scotland,652531,150,Withdrawn
+DDD,Scotland,675945,60,Fail
+DDD,Scotland,684663,120,Fail
+DDD,Scotland,687411,120,Distinction
+DDD,Scotland,1733160,60,Withdrawn
+DDD,Scotland,2423655,60,Fail
+DDD,Scotland,2681782,120,Withdrawn
+DDD,South East Region,260639,120,Fail
+DDD,South East Region,446836,60,Fail
+DDD,South East Region,541202,60,Withdrawn
+DDD,South East Region,545704,60,Pass
+DDD,South East Region,548535,60,Pass
+DDD,South East Region,550371,60,Fail
+DDD,South East Region,2358423,120,Pass
+DDD,South East Region,2547402,180,Pass
+DDD,South East Region,33681,60,Withdrawn
+DDD,South East Region,34087,60,Withdrawn
+DDD,South East Region,179718,150,Fail
+DDD,South East Region,315388,60,Withdrawn
+DDD,South East Region,442530,120,Withdrawn
+DDD,South East Region,490164,120,Withdrawn
+DDD,South East Region,491688,210,Withdrawn
+DDD,South East Region,493147,120,Withdrawn
+DDD,South East Region,509610,60,Pass
+DDD,South East Region,544587,120,Withdrawn
+DDD,South East Region,563819,90,Pass
+DDD,South East Region,572143,120,Withdrawn
+DDD,South East Region,590828,120,Withdrawn
+DDD,South East Region,591593,60,Pass
+DDD,South East Region,591891,60,Pass
+DDD,South East Region,592950,60,Pass
+DDD,South East Region,602404,60,Pass
+DDD,South East Region,603325,60,Distinction
+DDD,South East Region,137150,60,Withdrawn
+DDD,South East Region,231973,60,Withdrawn
+DDD,South East Region,484762,120,Pass
+DDD,South East Region,490164,120,Fail
+DDD,South East Region,498980,120,Fail
+DDD,South East Region,513415,60,Withdrawn
+DDD,South East Region,544587,120,Fail
+DDD,South East Region,556416,60,Distinction
+DDD,South East Region,588560,120,Withdrawn
+DDD,South East Region,618968,60,Withdrawn
+DDD,South East Region,628216,60,Distinction
+DDD,South East Region,629773,90,Withdrawn
+DDD,South East Region,2635116,60,Withdrawn
+DDD,South East Region,2636552,90,Withdrawn
+DDD,South East Region,33681,60,Fail
+DDD,South East Region,34087,60,Fail
+DDD,South East Region,260639,120,Withdrawn
+DDD,South East Region,414094,60,Fail
+DDD,South East Region,442191,120,Withdrawn
+DDD,South East Region,475839,120,Fail
+DDD,South East Region,486287,60,Pass
+DDD,South East Region,491688,90,Withdrawn
+DDD,South East Region,534827,60,Withdrawn
+DDD,South East Region,562827,60,Withdrawn
+DDD,South East Region,618033,60,Withdrawn
+DDD,South East Region,631295,120,Withdrawn
+DDD,South East Region,641744,60,Distinction
+DDD,South East Region,674437,60,Pass
+DDD,South East Region,684095,90,Pass
+DDD,South East Region,685069,120,Withdrawn
+DDD,South East Region,693468,60,Withdrawn
+DDD,South East Region,2636552,60,Fail
+DDD,South Region,252489,60,Pass
+DDD,South Region,292713,60,Fail
+DDD,South Region,390233,60,Pass
+DDD,South Region,445573,60,Fail
+DDD,South Region,466158,90,Withdrawn
+DDD,South Region,477451,60,Pass
+DDD,South Region,511569,60,Withdrawn
+DDD,South Region,526699,120,Withdrawn
+DDD,South Region,536145,90,Withdrawn
+DDD,South Region,545245,120,Fail
+DDD,South Region,547784,60,Withdrawn
+DDD,South Region,549135,60,Pass
+DDD,South Region,556362,60,Pass
+DDD,South Region,1510198,70,Pass
+DDD,South Region,1584449,270,Fail
+DDD,South Region,2088765,70,Pass
+DDD,South Region,2350300,120,Fail
+DDD,South Region,2388623,60,Pass
+DDD,South Region,2532322,90,Pass
+DDD,South Region,89188,60,Pass
+DDD,South Region,230510,60,Fail
+DDD,South Region,234827,120,Withdrawn
+DDD,South Region,269065,90,Withdrawn
+DDD,South Region,339739,60,Fail
+DDD,South Region,418397,60,Pass
+DDD,South Region,466158,180,Withdrawn
+DDD,South Region,496315,60,Fail
+DDD,South Region,500785,60,Withdrawn
+DDD,South Region,543648,120,Fail
+DDD,South Region,547784,120,Fail
+DDD,South Region,572880,60,Withdrawn
+DDD,South Region,577401,120,Withdrawn
+DDD,South Region,577464,60,Pass
+DDD,South Region,583580,60,Fail
+DDD,South Region,584586,120,Fail
+DDD,South Region,584883,120,Withdrawn
+DDD,South Region,585326,60,Pass
+DDD,South Region,599741,60,Withdrawn
+DDD,South Region,601857,150,Pass
+DDD,South Region,608062,60,Pass
+DDD,South Region,610106,90,Withdrawn
+DDD,South Region,2505413,120,Withdrawn
+DDD,South Region,2688422,120,Withdrawn
+DDD,South Region,152320,60,Withdrawn
+DDD,South Region,466158,180,Withdrawn
+DDD,South Region,493793,180,Withdrawn
+DDD,South Region,551340,120,Withdrawn
+DDD,South Region,569706,120,Withdrawn
+DDD,South Region,577954,150,Withdrawn
+DDD,South Region,581409,120,Withdrawn
+DDD,South Region,582479,60,Pass
+DDD,South Region,614265,120,Distinction
+DDD,South Region,618682,60,Withdrawn
+DDD,South Region,622225,60,Fail
+DDD,South Region,623834,60,Withdrawn
+DDD,South Region,625218,60,Distinction
+DDD,South Region,628333,60,Pass
+DDD,South Region,628841,120,Withdrawn
+DDD,South Region,630195,60,Withdrawn
+DDD,South Region,2646737,120,Withdrawn
+DDD,South Region,152320,90,Pass
+DDD,South Region,428787,60,Withdrawn
+DDD,South Region,486244,60,Withdrawn
+DDD,South Region,525068,60,Distinction
+DDD,South Region,526699,90,Withdrawn
+DDD,South Region,572880,60,Fail
+DDD,South Region,588058,180,Withdrawn
+DDD,South Region,611790,60,Pass
+DDD,South Region,618531,120,Withdrawn
+DDD,South Region,653051,180,Fail
+DDD,South Region,657071,60,Fail
+DDD,South Region,676010,120,Withdrawn
+DDD,South Region,692753,60,Withdrawn
+DDD,South Region,694705,180,Withdrawn
+DDD,South Region,696826,120,Fail
+DDD,South Region,1871306,60,Withdrawn
+DDD,South Region,2098108,120,Fail
+DDD,South Region,2345307,60,Withdrawn
+DDD,South Region,2369962,60,Withdrawn
+DDD,South Region,2646737,150,Fail
+DDD,South West Region,117435,90,Withdrawn
+DDD,South West Region,183714,60,Pass
+DDD,South West Region,420388,60,Pass
+DDD,South West Region,474133,240,Fail
+DDD,South West Region,475604,60,Withdrawn
+DDD,South West Region,492371,60,Pass
+DDD,South West Region,499246,180,Pass
+DDD,South West Region,515046,60,Pass
+DDD,South West Region,522739,180,Withdrawn
+DDD,South West Region,545201,60,Withdrawn
+DDD,South West Region,558415,60,Pass
+DDD,South West Region,558440,60,Pass
+DDD,South West Region,2536214,120,Fail
+DDD,South West Region,2624720,60,Fail
+DDD,South West Region,2666577,60,Pass
+DDD,South West Region,2686609,180,Withdrawn
+DDD,South West Region,261495,90,Withdrawn
+DDD,South West Region,386912,90,Withdrawn
+DDD,South West Region,439568,90,Distinction
+DDD,South West Region,446448,60,Withdrawn
+DDD,South West Region,469553,180,Pass
+DDD,South West Region,496185,60,Fail
+DDD,South West Region,499392,60,Fail
+DDD,South West Region,542180,240,Pass
+DDD,South West Region,552898,240,Pass
+DDD,South West Region,555316,120,Fail
+DDD,South West Region,563675,60,Pass
+DDD,South West Region,572060,60,Pass
+DDD,South West Region,574181,60,Withdrawn
+DDD,South West Region,583221,120,Withdrawn
+DDD,South West Region,584591,120,Withdrawn
+DDD,South West Region,585695,90,Pass
+DDD,South West Region,588815,120,Withdrawn
+DDD,South West Region,589212,120,Withdrawn
+DDD,South West Region,603302,120,Withdrawn
+DDD,South West Region,605941,90,Pass
+DDD,South West Region,607427,150,Withdrawn
+DDD,South West Region,608943,120,Withdrawn
+DDD,South West Region,609797,60,Withdrawn
+DDD,South West Region,2355555,60,Fail
+DDD,South West Region,2366701,190,Withdrawn
+DDD,South West Region,117435,60,Fail
+DDD,South West Region,154697,80,Withdrawn
+DDD,South West Region,201151,60,Distinction
+DDD,South West Region,267118,90,Withdrawn
+DDD,South West Region,384372,60,Fail
+DDD,South West Region,430282,60,Withdrawn
+DDD,South West Region,466714,120,Withdrawn
+DDD,South West Region,470555,60,Withdrawn
+DDD,South West Region,590410,120,Withdrawn
+DDD,South West Region,603302,120,Distinction
+DDD,South West Region,618649,90,Pass
+DDD,South West Region,620974,90,Withdrawn
+DDD,South West Region,627581,60,Fail
+DDD,South West Region,628386,60,Pass
+DDD,South West Region,2357168,120,Withdrawn
+DDD,South West Region,2366701,180,Withdrawn
+DDD,South West Region,2659530,70,Distinction
+DDD,South West Region,58731,110,Pass
+DDD,South West Region,125830,120,Withdrawn
+DDD,South West Region,241769,60,Withdrawn
+DDD,South West Region,267118,90,Fail
+DDD,South West Region,323025,120,Withdrawn
+DDD,South West Region,339853,120,Fail
+DDD,South West Region,384499,60,Pass
+DDD,South West Region,444180,60,Pass
+DDD,South West Region,447644,90,Pass
+DDD,South West Region,466714,60,Withdrawn
+DDD,South West Region,470555,90,Fail
+DDD,South West Region,567281,90,Withdrawn
+DDD,South West Region,584591,150,Withdrawn
+DDD,South West Region,608943,60,Withdrawn
+DDD,South West Region,630380,60,Pass
+DDD,South West Region,640773,150,Fail
+DDD,South West Region,644964,120,Distinction
+DDD,South West Region,646077,120,Withdrawn
+DDD,South West Region,646589,120,Fail
+DDD,South West Region,647947,210,Withdrawn
+DDD,South West Region,649041,120,Fail
+DDD,South West Region,649090,120,Pass
+DDD,South West Region,649780,90,Pass
+DDD,South West Region,651061,120,Fail
+DDD,South West Region,653914,60,Fail
+DDD,South West Region,654807,90,Distinction
+DDD,South West Region,680996,120,Pass
+DDD,South West Region,689198,120,Withdrawn
+DDD,South West Region,1442215,60,Withdrawn
+DDD,South West Region,1526210,60,Fail
+DDD,South West Region,2337919,135,Withdrawn
+DDD,South West Region,2572145,60,Fail
+DDD,South West Region,2650337,120,Pass
+DDD,Wales,121000,270,Fail
+DDD,Wales,168243,180,Withdrawn
+DDD,Wales,470637,150,Withdrawn
+DDD,Wales,556337,60,Pass
+DDD,Wales,2375627,60,Withdrawn
+DDD,Wales,361889,120,Withdrawn
+DDD,Wales,366535,120,Withdrawn
+DDD,Wales,443540,120,Withdrawn
+DDD,Wales,491926,60,Pass
+DDD,Wales,498793,240,Withdrawn
+DDD,Wales,512525,90,Withdrawn
+DDD,Wales,561272,120,Fail
+DDD,Wales,574730,60,Fail
+DDD,Wales,604655,90,Withdrawn
+DDD,Wales,2375627,60,Pass
+DDD,Wales,498793,240,Withdrawn
+DDD,Wales,587403,210,Withdrawn
+DDD,Wales,608772,150,Withdrawn
+DDD,Wales,627071,60,Withdrawn
+DDD,Wales,2001102,120,Withdrawn
+DDD,Wales,153170,120,Pass
+DDD,Wales,385019,60,Fail
+DDD,Wales,537463,150,Withdrawn
+DDD,Wales,586957,120,Withdrawn
+DDD,Wales,638384,60,Pass
+DDD,Wales,642764,90,Withdrawn
+DDD,Wales,652292,120,Withdrawn
+DDD,Wales,1438584,60,Withdrawn
+DDD,West Midlands Region,90836,180,Fail
+DDD,West Midlands Region,297582,60,Withdrawn
+DDD,West Midlands Region,382339,120,Fail
+DDD,West Midlands Region,433151,120,Pass
+DDD,West Midlands Region,520092,120,Withdrawn
+DDD,West Midlands Region,532855,60,Pass
+DDD,West Midlands Region,543749,60,Fail
+DDD,West Midlands Region,546862,60,Pass
+DDD,West Midlands Region,185024,180,Withdrawn
+DDD,West Midlands Region,238983,90,Pass
+DDD,West Midlands Region,370294,70,Fail
+DDD,West Midlands Region,399453,60,Pass
+DDD,West Midlands Region,549601,60,Withdrawn
+DDD,West Midlands Region,557320,60,Withdrawn
+DDD,West Midlands Region,559547,60,Withdrawn
+DDD,West Midlands Region,568196,60,Pass
+DDD,West Midlands Region,577638,90,Withdrawn
+DDD,West Midlands Region,585525,120,Withdrawn
+DDD,West Midlands Region,589531,120,Pass
+DDD,West Midlands Region,596542,60,Fail
+DDD,West Midlands Region,597770,130,Pass
+DDD,West Midlands Region,598123,120,Withdrawn
+DDD,West Midlands Region,606513,60,Withdrawn
+DDD,West Midlands Region,2409396,90,Withdrawn
+DDD,West Midlands Region,2452902,120,Withdrawn
+DDD,West Midlands Region,2561282,60,Fail
+DDD,West Midlands Region,2579683,60,Withdrawn
+DDD,West Midlands Region,260565,60,Pass
+DDD,West Midlands Region,328123,60,Fail
+DDD,West Midlands Region,442393,60,Fail
+DDD,West Midlands Region,523857,120,Pass
+DDD,West Midlands Region,602533,60,Distinction
+DDD,West Midlands Region,2452902,120,Pass
+DDD,West Midlands Region,2611371,150,Pass
+DDD,West Midlands Region,36385,120,Withdrawn
+DDD,West Midlands Region,185024,60,Withdrawn
+DDD,West Midlands Region,240236,60,Fail
+DDD,West Midlands Region,301036,60,Withdrawn
+DDD,West Midlands Region,306754,120,Withdrawn
+DDD,West Midlands Region,307116,100,Withdrawn
+DDD,West Midlands Region,371949,60,Fail
+DDD,West Midlands Region,416276,120,Withdrawn
+DDD,West Midlands Region,528175,120,Withdrawn
+DDD,West Midlands Region,554215,120,Withdrawn
+DDD,West Midlands Region,577638,90,Pass
+DDD,West Midlands Region,598123,240,Withdrawn
+DDD,West Midlands Region,629309,60,Pass
+DDD,West Midlands Region,638243,120,Withdrawn
+DDD,West Midlands Region,647937,120,Pass
+DDD,West Midlands Region,674419,240,Withdrawn
+DDD,West Midlands Region,677449,60,Withdrawn
+DDD,West Midlands Region,681241,120,Pass
+DDD,West Midlands Region,688171,120,Withdrawn
+DDD,West Midlands Region,695643,150,Withdrawn
+DDD,Yorkshire Region,500006,210,Pass
+DDD,Yorkshire Region,543756,60,Pass
+DDD,Yorkshire Region,557247,60,Withdrawn
+DDD,Yorkshire Region,266558,90,Pass
+DDD,Yorkshire Region,315517,180,Withdrawn
+DDD,Yorkshire Region,511890,120,Withdrawn
+DDD,Yorkshire Region,557247,60,Withdrawn
+DDD,Yorkshire Region,602312,120,Withdrawn
+DDD,Yorkshire Region,606908,60,Pass
+DDD,Yorkshire Region,2256318,120,Withdrawn
+DDD,Yorkshire Region,287499,60,Withdrawn
+DDD,Yorkshire Region,315517,180,Withdrawn
+DDD,Yorkshire Region,395164,150,Withdrawn
+DDD,Yorkshire Region,505815,90,Pass
+DDD,Yorkshire Region,508446,60,Withdrawn
+DDD,Yorkshire Region,511890,120,Withdrawn
+DDD,Yorkshire Region,571008,60,Withdrawn
+DDD,Yorkshire Region,610326,60,Pass
+DDD,Yorkshire Region,619964,60,Withdrawn
+DDD,Yorkshire Region,309350,120,Withdrawn
+DDD,Yorkshire Region,537577,60,Pass
+DDD,Yorkshire Region,633475,60,Fail
+DDD,Yorkshire Region,645906,240,Withdrawn
+DDD,Yorkshire Region,649963,210,Withdrawn
+DDD,Yorkshire Region,650010,60,Distinction
+DDD,Yorkshire Region,697948,150,Fail
+EEE,East Anglian Region,113824,120,Fail
+EEE,East Anglian Region,125619,60,Withdrawn
+EEE,East Anglian Region,417724,30,Distinction
+EEE,East Anglian Region,526051,90,Withdrawn
+EEE,East Anglian Region,556521,60,Pass
+EEE,East Anglian Region,559617,90,Pass
+EEE,East Anglian Region,564714,30,Pass
+EEE,East Anglian Region,567752,60,Pass
+EEE,East Anglian Region,598973,60,Distinction
+EEE,East Anglian Region,371113,60,Withdrawn
+EEE,East Anglian Region,444349,30,Fail
+EEE,East Anglian Region,526051,90,Distinction
+EEE,East Anglian Region,589828,150,Pass
+EEE,East Anglian Region,618583,90,Pass
+EEE,East Anglian Region,621619,60,Withdrawn
+EEE,East Anglian Region,605541,60,Fail
+EEE,East Anglian Region,650666,60,Distinction
+EEE,East Anglian Region,655484,90,Withdrawn
+EEE,East Anglian Region,675391,60,Withdrawn
+EEE,East Anglian Region,677947,60,Fail
+EEE,East Anglian Region,1483814,240,Distinction
+EEE,East Anglian Region,2372573,60,Withdrawn
+EEE,East Midlands Region,549681,30,Pass
+EEE,East Midlands Region,560502,30,Fail
+EEE,East Midlands Region,586473,60,Fail
+EEE,East Midlands Region,599547,120,Withdrawn
+EEE,East Midlands Region,69239,90,Withdrawn
+EEE,East Midlands Region,594131,60,Pass
+EEE,East Midlands Region,610684,30,Pass
+EEE,East Midlands Region,622812,30,Distinction
+EEE,East Midlands Region,299707,150,Pass
+EEE,East Midlands Region,633824,60,Distinction
+EEE,East Midlands Region,650578,60,Withdrawn
+EEE,Ireland,582768,90,Fail
+EEE,Ireland,620716,30,Distinction
+EEE,Ireland,644794,60,Pass
+EEE,London Region,597573,60,Pass
+EEE,London Region,2326597,90,Pass
+EEE,London Region,144745,30,Pass
+EEE,London Region,525332,60,Fail
+EEE,London Region,529304,90,Pass
+EEE,London Region,626768,30,Pass
+EEE,London Region,418035,30,Pass
+EEE,London Region,425858,60,Fail
+EEE,London Region,441895,30,Pass
+EEE,London Region,641881,60,Fail
+EEE,London Region,643434,60,Pass
+EEE,North Region,281656,210,Fail
+EEE,North Region,555228,60,Pass
+EEE,North Region,608744,30,Pass
+EEE,North Region,574580,150,Fail
+EEE,North Region,631888,30,Withdrawn
+EEE,North Region,654031,60,Pass
+EEE,North Region,2229389,90,Pass
+EEE,North Western Region,531097,30,Fail
+EEE,North Western Region,539695,60,Fail
+EEE,North Western Region,554999,120,Withdrawn
+EEE,North Western Region,602944,60,Fail
+EEE,North Western Region,2435050,90,Withdrawn
+EEE,North Western Region,2564333,60,Pass
+EEE,North Western Region,620215,60,Pass
+EEE,North Western Region,629906,60,Fail
+EEE,North Western Region,1664171,90,Withdrawn
+EEE,North Western Region,316454,120,Withdrawn
+EEE,North Western Region,445049,30,Pass
+EEE,North Western Region,554999,60,Withdrawn
+EEE,North Western Region,682554,30,Withdrawn
+EEE,North Western Region,1664171,45,Fail
+EEE,Scotland,446324,60,Pass
+EEE,Scotland,465845,30,Withdrawn
+EEE,Scotland,479753,60,Pass
+EEE,Scotland,485582,30,Pass
+EEE,Scotland,502479,60,Withdrawn
+EEE,Scotland,556450,90,Fail
+EEE,Scotland,576405,60,Pass
+EEE,Scotland,580689,90,Withdrawn
+EEE,Scotland,584443,90,Distinction
+EEE,Scotland,587226,30,Fail
+EEE,Scotland,592051,120,Pass
+EEE,Scotland,611565,30,Withdrawn
+EEE,Scotland,1622944,30,Fail
+EEE,Scotland,1915408,30,Pass
+EEE,Scotland,2056643,60,Pass
+EEE,Scotland,272103,90,Fail
+EEE,Scotland,404239,60,Fail
+EEE,Scotland,426616,60,Pass
+EEE,Scotland,575473,60,Pass
+EEE,Scotland,600801,75,Pass
+EEE,Scotland,628718,90,Pass
+EEE,Scotland,356735,30,Pass
+EEE,Scotland,425053,60,Fail
+EEE,Scotland,521350,30,Fail
+EEE,Scotland,529287,90,Withdrawn
+EEE,Scotland,542167,60,Withdrawn
+EEE,Scotland,556450,60,Fail
+EEE,Scotland,570954,60,Withdrawn
+EEE,Scotland,580689,60,Fail
+EEE,Scotland,600267,90,Withdrawn
+EEE,Scotland,636996,90,Pass
+EEE,Scotland,641817,60,Withdrawn
+EEE,Scotland,646520,60,Pass
+EEE,Scotland,677711,30,Fail
+EEE,Scotland,681001,60,Distinction
+EEE,Scotland,685750,180,Withdrawn
+EEE,Scotland,688974,30,Fail
+EEE,Scotland,691978,30,Withdrawn
+EEE,Scotland,698024,120,Fail
+EEE,Scotland,698717,30,Fail
+EEE,Scotland,2622627,180,Pass
+EEE,South East Region,374192,30,Distinction
+EEE,South East Region,594199,90,Pass
+EEE,South East Region,289397,60,Pass
+EEE,South East Region,359460,90,Withdrawn
+EEE,South Region,160536,180,Pass
+EEE,South Region,286262,30,Withdrawn
+EEE,South Region,400208,30,Withdrawn
+EEE,South Region,406549,60,Pass
+EEE,South Region,554132,60,Fail
+EEE,South Region,569706,120,Pass
+EEE,South Region,597376,120,Pass
+EEE,South Region,608967,60,Fail
+EEE,South Region,544295,60,Fail
+EEE,South Region,622368,60,Pass
+EEE,South Region,631334,60,Distinction
+EEE,South Region,1780737,60,Fail
+EEE,South Region,286262,120,Pass
+EEE,South Region,565952,60,Pass
+EEE,South Region,588058,180,Withdrawn
+EEE,South Region,623002,60,Fail
+EEE,South Region,623889,30,Pass
+EEE,South Region,645481,60,Withdrawn
+EEE,South Region,651635,60,Pass
+EEE,South Region,677507,90,Withdrawn
+EEE,South Region,2072671,60,Fail
+EEE,South Region,2538792,60,Pass
+EEE,South West Region,359590,30,Withdrawn
+EEE,South West Region,438283,60,Fail
+EEE,South West Region,486545,60,Pass
+EEE,South West Region,507844,30,Pass
+EEE,South West Region,562315,60,Withdrawn
+EEE,South West Region,594193,60,Fail
+EEE,South West Region,620713,120,Withdrawn
+EEE,South West Region,632977,30,Pass
+EEE,South West Region,647405,60,Withdrawn
+EEE,South West Region,648902,60,Pass
+EEE,South West Region,685487,60,Distinction
+EEE,Wales,401011,30,Pass
+EEE,Wales,572515,60,Distinction
+EEE,Wales,490587,120,Fail
+EEE,Wales,641716,90,Withdrawn
+EEE,Wales,674430,60,Pass
+EEE,West Midlands Region,171107,270,Withdrawn
+EEE,West Midlands Region,189629,30,Pass
+EEE,West Midlands Region,572186,60,Withdrawn
+EEE,West Midlands Region,579130,30,Pass
+EEE,West Midlands Region,2619025,90,Distinction
+EEE,West Midlands Region,593941,60,Withdrawn
+EEE,West Midlands Region,623562,60,Pass
+EEE,West Midlands Region,625975,60,Fail
+EEE,West Midlands Region,269220,60,Pass
+EEE,West Midlands Region,560881,90,Fail
+EEE,West Midlands Region,572599,60,Pass
+EEE,West Midlands Region,640443,120,Withdrawn
+EEE,Yorkshire Region,480928,150,Withdrawn
+EEE,Yorkshire Region,615229,60,Pass
+EEE,Yorkshire Region,623111,120,Withdrawn
+EEE,Yorkshire Region,2520067,180,Withdrawn
+EEE,Yorkshire Region,233335,30,Pass
+FFF,East Anglian Region,87152,60,Pass
+FFF,East Anglian Region,167557,60,Withdrawn
+FFF,East Anglian Region,291960,60,Pass
+FFF,East Anglian Region,336362,120,Fail
+FFF,East Anglian Region,342475,180,Fail
+FFF,East Anglian Region,359156,120,Distinction
+FFF,East Anglian Region,385681,120,Withdrawn
+FFF,East Anglian Region,498269,60,Pass
+FFF,East Anglian Region,508288,120,Fail
+FFF,East Anglian Region,510883,60,Pass
+FFF,East Anglian Region,519155,120,Withdrawn
+FFF,East Anglian Region,529493,60,Pass
+FFF,East Anglian Region,533198,120,Withdrawn
+FFF,East Anglian Region,544173,130,Distinction
+FFF,East Anglian Region,545693,90,Withdrawn
+FFF,East Anglian Region,548219,60,Pass
+FFF,East Anglian Region,548893,60,Withdrawn
+FFF,East Anglian Region,548969,90,Withdrawn
+FFF,East Anglian Region,559991,60,Fail
+FFF,East Anglian Region,2521655,60,Pass
+FFF,East Anglian Region,331039,120,Pass
+FFF,East Anglian Region,357851,90,Withdrawn
+FFF,East Anglian Region,402662,60,Pass
+FFF,East Anglian Region,464522,60,Withdrawn
+FFF,East Anglian Region,481092,240,Withdrawn
+FFF,East Anglian Region,485671,150,Pass
+FFF,East Anglian Region,494975,60,Withdrawn
+FFF,East Anglian Region,502249,60,Pass
+FFF,East Anglian Region,508295,60,Fail
+FFF,East Anglian Region,514558,120,Fail
+FFF,East Anglian Region,562377,120,Pass
+FFF,East Anglian Region,570004,180,Withdrawn
+FFF,East Anglian Region,572718,120,Fail
+FFF,East Anglian Region,577640,60,Withdrawn
+FFF,East Anglian Region,580477,120,Withdrawn
+FFF,East Anglian Region,586233,60,Pass
+FFF,East Anglian Region,586784,120,Pass
+FFF,East Anglian Region,589828,150,Withdrawn
+FFF,East Anglian Region,590749,90,Withdrawn
+FFF,East Anglian Region,595978,180,Withdrawn
+FFF,East Anglian Region,599816,120,Pass
+FFF,East Anglian Region,601389,120,Distinction
+FFF,East Anglian Region,602097,60,Fail
+FFF,East Anglian Region,609277,90,Distinction
+FFF,East Anglian Region,1504653,60,Pass
+FFF,East Anglian Region,2239746,120,Pass
+FFF,East Anglian Region,2449737,120,Withdrawn
+FFF,East Anglian Region,153611,60,Fail
+FFF,East Anglian Region,339824,60,Distinction
+FFF,East Anglian Region,416302,60,Pass
+FFF,East Anglian Region,445818,60,Fail
+FFF,East Anglian Region,533198,120,Withdrawn
+FFF,East Anglian Region,595978,180,Fail
+FFF,East Anglian Region,596243,60,Withdrawn
+FFF,East Anglian Region,613281,60,Fail
+FFF,East Anglian Region,615439,60,Pass
+FFF,East Anglian Region,617847,90,Withdrawn
+FFF,East Anglian Region,617868,120,Pass
+FFF,East Anglian Region,620473,60,Pass
+FFF,East Anglian Region,627808,120,Withdrawn
+FFF,East Anglian Region,633077,60,Distinction
+FFF,East Anglian Region,633881,60,Withdrawn
+FFF,East Anglian Region,2164266,180,Fail
+FFF,East Anglian Region,2480886,60,Withdrawn
+FFF,East Anglian Region,2525633,60,Withdrawn
+FFF,East Anglian Region,2684417,120,Withdrawn
+FFF,East Anglian Region,110820,60,Withdrawn
+FFF,East Anglian Region,332676,60,Withdrawn
+FFF,East Anglian Region,357851,120,Fail
+FFF,East Anglian Region,408499,120,Withdrawn
+FFF,East Anglian Region,444011,180,Pass
+FFF,East Anglian Region,464522,120,Withdrawn
+FFF,East Anglian Region,500618,120,Pass
+FFF,East Anglian Region,534018,120,Withdrawn
+FFF,East Anglian Region,570004,60,Fail
+FFF,East Anglian Region,589828,60,Pass
+FFF,East Anglian Region,593796,60,Distinction
+FFF,East Anglian Region,596243,60,Pass
+FFF,East Anglian Region,639993,60,Withdrawn
+FFF,East Anglian Region,646053,120,Pass
+FFF,East Anglian Region,647321,60,Withdrawn
+FFF,East Anglian Region,655088,120,Withdrawn
+FFF,East Anglian Region,675577,60,Fail
+FFF,East Anglian Region,675843,60,Withdrawn
+FFF,East Anglian Region,682695,150,Pass
+FFF,East Anglian Region,683467,120,Pass
+FFF,East Anglian Region,686348,120,Pass
+FFF,East Anglian Region,686786,60,Fail
+FFF,East Anglian Region,1629444,180,Withdrawn
+FFF,East Anglian Region,1745145,60,Withdrawn
+FFF,East Anglian Region,2480886,60,Fail
+FFF,East Midlands Region,80745,60,Pass
+FFF,East Midlands Region,166327,60,Pass
+FFF,East Midlands Region,238901,60,Fail
+FFF,East Midlands Region,389773,90,Withdrawn
+FFF,East Midlands Region,514903,150,Pass
+FFF,East Midlands Region,533709,120,Fail
+FFF,East Midlands Region,538202,60,Pass
+FFF,East Midlands Region,546329,60,Fail
+FFF,East Midlands Region,548415,60,Withdrawn
+FFF,East Midlands Region,553834,60,Withdrawn
+FFF,East Midlands Region,556391,60,Pass
+FFF,East Midlands Region,150121,210,Withdrawn
+FFF,East Midlands Region,233087,90,Distinction
+FFF,East Midlands Region,242491,120,Distinction
+FFF,East Midlands Region,259609,180,Withdrawn
+FFF,East Midlands Region,349247,60,Withdrawn
+FFF,East Midlands Region,379843,60,Pass
+FFF,East Midlands Region,410838,60,Pass
+FFF,East Midlands Region,551823,120,Withdrawn
+FFF,East Midlands Region,559067,60,Withdrawn
+FFF,East Midlands Region,559999,120,Withdrawn
+FFF,East Midlands Region,592373,90,Distinction
+FFF,East Midlands Region,595164,120,Pass
+FFF,East Midlands Region,1866233,60,Withdrawn
+FFF,East Midlands Region,1981053,120,Withdrawn
+FFF,East Midlands Region,74524,120,Fail
+FFF,East Midlands Region,150121,210,Fail
+FFF,East Midlands Region,174155,60,Withdrawn
+FFF,East Midlands Region,389773,120,Fail
+FFF,East Midlands Region,468730,60,Fail
+FFF,East Midlands Region,477069,120,Fail
+FFF,East Midlands Region,543686,60,Pass
+FFF,East Midlands Region,613447,120,Fail
+FFF,East Midlands Region,617318,60,Pass
+FFF,East Midlands Region,617534,60,Pass
+FFF,East Midlands Region,630859,60,Pass
+FFF,East Midlands Region,632634,60,Withdrawn
+FFF,East Midlands Region,2545629,60,Pass
+FFF,East Midlands Region,56637,90,Distinction
+FFF,East Midlands Region,295893,60,Fail
+FFF,East Midlands Region,297341,120,Pass
+FFF,East Midlands Region,393141,90,Fail
+FFF,East Midlands Region,537811,120,Distinction
+FFF,East Midlands Region,560765,120,Withdrawn
+FFF,East Midlands Region,620269,60,Pass
+FFF,East Midlands Region,631193,120,Withdrawn
+FFF,East Midlands Region,632634,60,Withdrawn
+FFF,East Midlands Region,636634,120,Withdrawn
+FFF,East Midlands Region,637788,60,Fail
+FFF,East Midlands Region,647324,120,Distinction
+FFF,East Midlands Region,647399,120,Pass
+FFF,East Midlands Region,647987,120,Fail
+FFF,East Midlands Region,651330,150,Fail
+FFF,East Midlands Region,651881,60,Pass
+FFF,East Midlands Region,656519,120,Withdrawn
+FFF,East Midlands Region,674831,60,Pass
+FFF,East Midlands Region,679269,60,Withdrawn
+FFF,East Midlands Region,681120,120,Withdrawn
+FFF,East Midlands Region,682298,120,Pass
+FFF,East Midlands Region,685565,120,Withdrawn
+FFF,East Midlands Region,1866233,60,Fail
+FFF,East Midlands Region,2067799,60,Fail
+FFF,East Midlands Region,2470326,120,Fail
+FFF,East Midlands Region,2682682,120,Distinction
+FFF,Ireland,547400,60,Distinction
+FFF,Ireland,502779,90,Withdrawn
+FFF,Ireland,527619,120,Withdrawn
+FFF,Ireland,549523,150,Withdrawn
+FFF,Ireland,558284,150,Withdrawn
+FFF,Ireland,573678,70,Pass
+FFF,Ireland,558284,150,Withdrawn
+FFF,Ireland,527619,90,Withdrawn
+FFF,Ireland,549523,120,Fail
+FFF,Ireland,578847,60,Distinction
+FFF,Ireland,647485,60,Pass
+FFF,Ireland,685367,60,Fail
+FFF,London Region,91164,60,Fail
+FFF,London Region,370312,60,Pass
+FFF,London Region,434476,180,Withdrawn
+FFF,London Region,480981,120,Fail
+FFF,London Region,488386,60,Withdrawn
+FFF,London Region,499372,120,Fail
+FFF,London Region,516519,150,Withdrawn
+FFF,London Region,518385,180,Withdrawn
+FFF,London Region,534854,120,Fail
+FFF,London Region,537674,120,Fail
+FFF,London Region,544651,120,Withdrawn
+FFF,London Region,554152,60,Withdrawn
+FFF,London Region,554620,70,Pass
+FFF,London Region,556126,60,Withdrawn
+FFF,London Region,556911,120,Withdrawn
+FFF,London Region,560459,60,Withdrawn
+FFF,London Region,988019,60,Withdrawn
+FFF,London Region,1627071,120,Fail
+FFF,London Region,1839785,120,Withdrawn
+FFF,London Region,1874403,180,Withdrawn
+FFF,London Region,2142853,170,Fail
+FFF,London Region,68107,60,Pass
+FFF,London Region,101217,90,Withdrawn
+FFF,London Region,114500,120,Fail
+FFF,London Region,202713,60,Fail
+FFF,London Region,367510,120,Withdrawn
+FFF,London Region,368315,120,Pass
+FFF,London Region,385209,90,Fail
+FFF,London Region,393526,60,Distinction
+FFF,London Region,580533,120,Withdrawn
+FFF,London Region,582690,90,Withdrawn
+FFF,London Region,586477,120,Pass
+FFF,London Region,592810,120,Fail
+FFF,London Region,601745,60,Fail
+FFF,London Region,988019,60,Fail
+FFF,London Region,2357629,60,Distinction
+FFF,London Region,132157,60,Pass
+FFF,London Region,132477,60,Pass
+FFF,London Region,133104,120,Pass
+FFF,London Region,367510,120,Withdrawn
+FFF,London Region,477833,60,Withdrawn
+FFF,London Region,488386,60,Fail
+FFF,London Region,556126,60,Withdrawn
+FFF,London Region,557708,60,Fail
+FFF,London Region,596637,60,Withdrawn
+FFF,London Region,600702,60,Pass
+FFF,London Region,607896,150,Pass
+FFF,London Region,628995,60,Pass
+FFF,London Region,2462281,60,Withdrawn
+FFF,London Region,101217,60,Fail
+FFF,London Region,204117,60,Withdrawn
+FFF,London Region,434476,120,Pass
+FFF,London Region,445459,90,Withdrawn
+FFF,London Region,477833,60,Fail
+FFF,London Region,523589,120,Withdrawn
+FFF,London Region,556126,60,Pass
+FFF,London Region,560459,60,Withdrawn
+FFF,London Region,562762,120,Withdrawn
+FFF,London Region,574527,60,Fail
+FFF,London Region,592657,120,Withdrawn
+FFF,London Region,607243,60,Pass
+FFF,London Region,647171,120,Fail
+FFF,London Region,648508,120,Fail
+FFF,London Region,648531,150,Distinction
+FFF,London Region,653773,60,Pass
+FFF,London Region,654322,120,Withdrawn
+FFF,London Region,680027,120,Distinction
+FFF,London Region,682981,120,Distinction
+FFF,London Region,685920,120,Withdrawn
+FFF,London Region,690656,150,Withdrawn
+FFF,London Region,694669,180,Withdrawn
+FFF,London Region,1532711,90,Withdrawn
+FFF,London Region,2462281,60,Withdrawn
+FFF,London Region,2557008,60,Distinction
+FFF,North Region,511762,270,Distinction
+FFF,North Region,517850,210,Fail
+FFF,North Region,548608,60,Withdrawn
+FFF,North Region,556542,60,Withdrawn
+FFF,North Region,2578992,150,Pass
+FFF,North Region,568857,120,Withdrawn
+FFF,North Region,576681,60,Withdrawn
+FFF,North Region,590226,120,Pass
+FFF,North Region,590701,90,Distinction
+FFF,North Region,608144,90,Distinction
+FFF,North Region,72114,120,Pass
+FFF,North Region,282806,60,Fail
+FFF,North Region,510142,150,Fail
+FFF,North Region,548332,120,Withdrawn
+FFF,North Region,611542,60,Distinction
+FFF,North Region,631195,60,Withdrawn
+FFF,North Region,634701,60,Withdrawn
+FFF,North Region,648927,150,Withdrawn
+FFF,North Region,653848,120,Withdrawn
+FFF,North Region,655115,60,Pass
+FFF,North Region,695220,180,Withdrawn
+FFF,North Region,1752994,60,Pass
+FFF,North Western Region,153785,60,Pass
+FFF,North Western Region,230684,60,Fail
+FFF,North Western Region,334224,60,Fail
+FFF,North Western Region,395367,90,Withdrawn
+FFF,North Western Region,501493,270,Fail
+FFF,North Western Region,539886,120,Fail
+FFF,North Western Region,560404,75,Fail
+FFF,North Western Region,2678429,60,Pass
+FFF,North Western Region,71252,60,Pass
+FFF,North Western Region,316061,180,Withdrawn
+FFF,North Western Region,473896,60,Fail
+FFF,North Western Region,482580,120,Withdrawn
+FFF,North Western Region,529684,90,Fail
+FFF,North Western Region,536711,120,Withdrawn
+FFF,North Western Region,557040,60,Withdrawn
+FFF,North Western Region,568381,60,Fail
+FFF,North Western Region,570717,120,Pass
+FFF,North Western Region,580658,60,Withdrawn
+FFF,North Western Region,587934,90,Withdrawn
+FFF,North Western Region,592203,60,Distinction
+FFF,North Western Region,593671,90,Fail
+FFF,North Western Region,594205,120,Pass
+FFF,North Western Region,594221,120,Withdrawn
+FFF,North Western Region,596296,90,Fail
+FFF,North Western Region,600224,120,Pass
+FFF,North Western Region,600367,90,Fail
+FFF,North Western Region,602111,60,Fail
+FFF,North Western Region,608681,60,Pass
+FFF,North Western Region,608737,90,Fail
+FFF,North Western Region,1253440,60,Fail
+FFF,North Western Region,2393230,60,Pass
+FFF,North Western Region,106747,180,Withdrawn
+FFF,North Western Region,289180,120,Withdrawn
+FFF,North Western Region,334224,150,Withdrawn
+FFF,North Western Region,484675,120,Withdrawn
+FFF,North Western Region,536711,120,Withdrawn
+FFF,North Western Region,594258,90,Withdrawn
+FFF,North Western Region,604678,120,Withdrawn
+FFF,North Western Region,614083,60,Fail
+FFF,North Western Region,620320,120,Fail
+FFF,North Western Region,622701,90,Pass
+FFF,North Western Region,623542,90,Fail
+FFF,North Western Region,626198,120,Pass
+FFF,North Western Region,2494338,60,Withdrawn
+FFF,North Western Region,40857,120,Withdrawn
+FFF,North Western Region,64777,90,Withdrawn
+FFF,North Western Region,152917,150,Distinction
+FFF,North Western Region,197188,120,Withdrawn
+FFF,North Western Region,258245,60,Pass
+FFF,North Western Region,316061,60,Withdrawn
+FFF,North Western Region,334224,60,Withdrawn
+FFF,North Western Region,383445,60,Fail
+FFF,North Western Region,568443,120,Withdrawn
+FFF,North Western Region,580926,120,Fail
+FFF,North Western Region,594258,90,Fail
+FFF,North Western Region,623166,120,Withdrawn
+FFF,North Western Region,634888,60,Fail
+FFF,North Western Region,640552,120,Withdrawn
+FFF,North Western Region,640892,60,Pass
+FFF,North Western Region,642626,120,Withdrawn
+FFF,North Western Region,675225,120,Pass
+FFF,North Western Region,675486,180,Withdrawn
+FFF,North Western Region,675824,90,Withdrawn
+FFF,North Western Region,680145,90,Pass
+FFF,North Western Region,682015,60,Withdrawn
+FFF,North Western Region,682671,120,Withdrawn
+FFF,North Western Region,689260,120,Pass
+FFF,North Western Region,689585,120,Withdrawn
+FFF,North Western Region,689747,120,Withdrawn
+FFF,North Western Region,693197,120,Pass
+FFF,North Western Region,696943,120,Withdrawn
+FFF,North Western Region,697438,60,Withdrawn
+FFF,North Western Region,698157,150,Fail
+FFF,North Western Region,2182293,120,Fail
+FFF,North Western Region,2342045,60,Withdrawn
+FFF,Scotland,112010,270,Withdrawn
+FFF,Scotland,327650,60,Pass
+FFF,Scotland,477812,120,Withdrawn
+FFF,Scotland,504200,60,Fail
+FFF,Scotland,504741,75,Withdrawn
+FFF,Scotland,504956,60,Withdrawn
+FFF,Scotland,540209,60,Pass
+FFF,Scotland,544847,120,Fail
+FFF,Scotland,544850,90,Pass
+FFF,Scotland,556440,60,Pass
+FFF,Scotland,557710,60,Distinction
+FFF,Scotland,1558539,60,Withdrawn
+FFF,Scotland,2581800,60,Withdrawn
+FFF,Scotland,53626,60,Fail
+FFF,Scotland,58640,90,Pass
+FFF,Scotland,112010,180,Withdrawn
+FFF,Scotland,286442,60,Withdrawn
+FFF,Scotland,497349,60,Fail
+FFF,Scotland,504956,90,Fail
+FFF,Scotland,515536,120,Fail
+FFF,Scotland,524845,150,Pass
+FFF,Scotland,572179,90,Withdrawn
+FFF,Scotland,576466,90,Withdrawn
+FFF,Scotland,577673,120,Withdrawn
+FFF,Scotland,582282,85,Withdrawn
+FFF,Scotland,586906,180,Withdrawn
+FFF,Scotland,601439,90,Pass
+FFF,Scotland,602502,120,Withdrawn
+FFF,Scotland,608997,90,Fail
+FFF,Scotland,1864086,60,Pass
+FFF,Scotland,2238148,60,Distinction
+FFF,Scotland,276265,60,Withdrawn
+FFF,Scotland,305876,120,Pass
+FFF,Scotland,315850,60,Pass
+FFF,Scotland,472341,60,Fail
+FFF,Scotland,477812,120,Distinction
+FFF,Scotland,550903,60,Distinction
+FFF,Scotland,561009,120,Pass
+FFF,Scotland,630634,90,Pass
+FFF,Scotland,633676,60,Withdrawn
+FFF,Scotland,634114,60,Withdrawn
+FFF,Scotland,2413895,90,Fail
+FFF,Scotland,2604975,60,Pass
+FFF,Scotland,276265,60,Pass
+FFF,Scotland,318289,60,Withdrawn
+FFF,Scotland,413949,60,Pass
+FFF,Scotland,485228,60,Fail
+FFF,Scotland,490297,150,Fail
+FFF,Scotland,496493,60,Withdrawn
+FFF,Scotland,534457,60,Pass
+FFF,Scotland,579221,60,Withdrawn
+FFF,Scotland,586906,60,Pass
+FFF,Scotland,602502,120,Fail
+FFF,Scotland,630289,150,Withdrawn
+FFF,Scotland,634114,60,Fail
+FFF,Scotland,639234,120,Withdrawn
+FFF,Scotland,654094,60,Withdrawn
+FFF,Scotland,675279,60,Pass
+FFF,Scotland,682390,60,Pass
+FFF,Scotland,685619,105,Pass
+FFF,Scotland,884652,120,Withdrawn
+FFF,Scotland,1473878,120,Pass
+FFF,Scotland,2017487,60,Distinction
+FFF,Scotland,2020628,60,Pass
+FFF,Scotland,2036893,60,Withdrawn
+FFF,Scotland,2256134,60,Withdrawn
+FFF,Scotland,2449490,120,Withdrawn
+FFF,South East Region,355149,180,Withdrawn
+FFF,South East Region,484556,60,Fail
+FFF,South East Region,491011,120,Withdrawn
+FFF,South East Region,519500,120,Withdrawn
+FFF,South East Region,524377,60,Pass
+FFF,South East Region,537133,60,Withdrawn
+FFF,South East Region,1442706,90,Fail
+FFF,South East Region,1936679,60,Pass
+FFF,South East Region,2508403,75,Withdrawn
+FFF,South East Region,302071,90,Fail
+FFF,South East Region,427802,150,Pass
+FFF,South East Region,476520,90,Pass
+FFF,South East Region,491011,120,Withdrawn
+FFF,South East Region,491688,210,Withdrawn
+FFF,South East Region,537133,60,Fail
+FFF,South East Region,562428,120,Withdrawn
+FFF,South East Region,581410,60,Pass
+FFF,South East Region,583966,90,Fail
+FFF,South East Region,588560,120,Fail
+FFF,South East Region,597238,120,Withdrawn
+FFF,South East Region,598966,120,Pass
+FFF,South East Region,602781,120,Withdrawn
+FFF,South East Region,2112291,120,Fail
+FFF,South East Region,2524572,90,Withdrawn
+FFF,South East Region,412387,60,Withdrawn
+FFF,South East Region,425332,60,Fail
+FFF,South East Region,491011,120,Pass
+FFF,South East Region,613152,60,Fail
+FFF,South East Region,617358,60,Withdrawn
+FFF,South East Region,618744,90,Withdrawn
+FFF,South East Region,622918,60,Withdrawn
+FFF,South East Region,630168,120,Withdrawn
+FFF,South East Region,632929,60,Pass
+FFF,South East Region,633221,60,Fail
+FFF,South East Region,1683192,60,Withdrawn
+FFF,South East Region,47861,60,Pass
+FFF,South East Region,130409,60,Pass
+FFF,South East Region,507935,60,Distinction
+FFF,South East Region,569108,90,Distinction
+FFF,South East Region,571932,120,Withdrawn
+FFF,South East Region,577032,60,Fail
+FFF,South East Region,596052,120,Withdrawn
+FFF,South East Region,630168,60,Withdrawn
+FFF,South East Region,635165,120,Withdrawn
+FFF,South East Region,643496,60,Pass
+FFF,South East Region,649385,90,Withdrawn
+FFF,South East Region,653797,60,Withdrawn
+FFF,South East Region,677687,60,Fail
+FFF,South East Region,682025,240,Withdrawn
+FFF,South East Region,683699,60,Withdrawn
+FFF,South East Region,688664,60,Withdrawn
+FFF,South East Region,694622,60,Pass
+FFF,South East Region,696043,120,Distinction
+FFF,South East Region,696583,60,Fail
+FFF,South East Region,1683192,60,Withdrawn
+FFF,South Region,296911,70,Withdrawn
+FFF,South Region,323809,60,Pass
+FFF,South Region,340496,60,Pass
+FFF,South Region,434298,90,Fail
+FFF,South Region,498636,60,Withdrawn
+FFF,South Region,504231,60,Fail
+FFF,South Region,527685,120,Fail
+FFF,South Region,535324,60,Fail
+FFF,South Region,536556,60,Pass
+FFF,South Region,543415,90,Pass
+FFF,South Region,543643,60,Pass
+FFF,South Region,544295,60,Pass
+FFF,South Region,549505,60,Withdrawn
+FFF,South Region,551142,60,Withdrawn
+FFF,South Region,558098,60,Pass
+FFF,South Region,560182,90,Pass
+FFF,South Region,2034533,130,Fail
+FFF,South Region,106690,120,Withdrawn
+FFF,South Region,231024,60,Pass
+FFF,South Region,500137,150,Withdrawn
+FFF,South Region,508942,180,Fail
+FFF,South Region,545119,150,Withdrawn
+FFF,South Region,552104,60,Distinction
+FFF,South Region,568998,120,Withdrawn
+FFF,South Region,569712,120,Distinction
+FFF,South Region,583993,120,Fail
+FFF,South Region,586483,60,Pass
+FFF,South Region,607866,60,Withdrawn
+FFF,South Region,2323944,90,Pass
+FFF,South Region,2344957,60,Pass
+FFF,South Region,2445085,210,Pass
+FFF,South Region,2454878,90,Pass
+FFF,South Region,2468232,120,Withdrawn
+FFF,South Region,2572441,150,Pass
+FFF,South Region,478073,150,Pass
+FFF,South Region,498636,120,Fail
+FFF,South Region,545119,150,Pass
+FFF,South Region,566460,60,Fail
+FFF,South Region,571316,60,Distinction
+FFF,South Region,572832,90,Pass
+FFF,South Region,577679,120,Withdrawn
+FFF,South Region,591318,60,Withdrawn
+FFF,South Region,594636,90,Withdrawn
+FFF,South Region,614059,90,Withdrawn
+FFF,South Region,617829,60,Pass
+FFF,South Region,618590,90,Pass
+FFF,South Region,620498,90,Fail
+FFF,South Region,622096,60,Distinction
+FFF,South Region,626281,90,Withdrawn
+FFF,South Region,628841,120,Pass
+FFF,South Region,632379,120,Pass
+FFF,South Region,58884,90,Distinction
+FFF,South Region,161837,120,Withdrawn
+FFF,South Region,276337,120,Withdrawn
+FFF,South Region,441165,120,Pass
+FFF,South Region,493793,120,Pass
+FFF,South Region,568998,60,Withdrawn
+FFF,South Region,582670,60,Fail
+FFF,South Region,583318,90,Pass
+FFF,South Region,592295,60,Pass
+FFF,South Region,594636,120,Pass
+FFF,South Region,607866,60,Pass
+FFF,South Region,613634,60,Pass
+FFF,South Region,614059,60,Pass
+FFF,South Region,617580,60,Pass
+FFF,South Region,626416,60,Distinction
+FFF,South Region,635410,150,Fail
+FFF,South Region,642843,120,Pass
+FFF,South Region,643455,120,Withdrawn
+FFF,South Region,643653,60,Pass
+FFF,South Region,653051,180,Withdrawn
+FFF,South Region,653653,90,Pass
+FFF,South Region,654671,150,Withdrawn
+FFF,South Region,656145,120,Withdrawn
+FFF,South Region,682358,180,Withdrawn
+FFF,South Region,692297,60,Fail
+FFF,South Region,695485,60,Pass
+FFF,South Region,698485,90,Pass
+FFF,South Region,2468232,210,Withdrawn
+FFF,South West Region,342208,120,Withdrawn
+FFF,South West Region,354173,120,Withdrawn
+FFF,South West Region,428932,120,Distinction
+FFF,South West Region,550617,120,Fail
+FFF,South West Region,552374,60,Pass
+FFF,South West Region,554748,60,Pass
+FFF,South West Region,558915,120,Pass
+FFF,South West Region,2586748,120,Withdrawn
+FFF,South West Region,2613930,75,Distinction
+FFF,South West Region,302566,120,Fail
+FFF,South West Region,342208,180,Withdrawn
+FFF,South West Region,494143,60,Fail
+FFF,South West Region,549300,60,Distinction
+FFF,South West Region,561031,60,Pass
+FFF,South West Region,568333,120,Pass
+FFF,South West Region,570061,180,Pass
+FFF,South West Region,572209,180,Withdrawn
+FFF,South West Region,574237,90,Withdrawn
+FFF,South West Region,581656,60,Pass
+FFF,South West Region,582842,120,Withdrawn
+FFF,South West Region,587195,240,Withdrawn
+FFF,South West Region,590548,120,Withdrawn
+FFF,South West Region,598259,120,Withdrawn
+FFF,South West Region,598285,120,Pass
+FFF,South West Region,601271,60,Withdrawn
+FFF,South West Region,604817,60,Fail
+FFF,South West Region,610517,60,Fail
+FFF,South West Region,1859407,120,Withdrawn
+FFF,South West Region,2218693,120,Pass
+FFF,South West Region,2340746,90,Pass
+FFF,South West Region,2463282,240,Withdrawn
+FFF,South West Region,2539666,60,Fail
+FFF,South West Region,2686609,60,Pass
+FFF,South West Region,318068,120,Pass
+FFF,South West Region,518210,60,Pass
+FFF,South West Region,567629,60,Pass
+FFF,South West Region,587195,240,Withdrawn
+FFF,South West Region,590548,120,Withdrawn
+FFF,South West Region,611581,60,Withdrawn
+FFF,South West Region,614730,60,Withdrawn
+FFF,South West Region,616613,60,Withdrawn
+FFF,South West Region,618914,60,Pass
+FFF,South West Region,623232,60,Withdrawn
+FFF,South West Region,625812,60,Withdrawn
+FFF,South West Region,626174,60,Withdrawn
+FFF,South West Region,631524,60,Withdrawn
+FFF,South West Region,2463282,240,Withdrawn
+FFF,South West Region,85241,120,Withdrawn
+FFF,South West Region,425467,60,Withdrawn
+FFF,South West Region,442347,120,Withdrawn
+FFF,South West Region,585958,90,Pass
+FFF,South West Region,601271,60,Fail
+FFF,South West Region,628308,60,Withdrawn
+FFF,South West Region,631524,60,Fail
+FFF,South West Region,644210,180,Pass
+FFF,South West Region,645496,90,Fail
+FFF,South West Region,646498,120,Withdrawn
+FFF,South West Region,648661,60,Fail
+FFF,South West Region,649028,240,Withdrawn
+FFF,South West Region,656323,120,Pass
+FFF,South West Region,681352,120,Pass
+FFF,South West Region,696071,90,Withdrawn
+FFF,South West Region,696253,120,Withdrawn
+FFF,South West Region,2463282,90,Withdrawn
+FFF,South West Region,2586748,60,Withdrawn
+FFF,Wales,526896,60,Pass
+FFF,Wales,547128,120,Withdrawn
+FFF,Wales,549014,90,Fail
+FFF,Wales,554919,60,Withdrawn
+FFF,Wales,2158399,60,Pass
+FFF,Wales,91629,60,Fail
+FFF,Wales,313206,60,Fail
+FFF,Wales,438063,60,Withdrawn
+FFF,Wales,527565,120,Withdrawn
+FFF,Wales,571612,120,Withdrawn
+FFF,Wales,586957,120,Pass
+FFF,Wales,595593,60,Fail
+FFF,Wales,79683,60,Withdrawn
+FFF,Wales,517277,60,Pass
+FFF,Wales,547128,190,Pass
+FFF,Wales,571612,120,Withdrawn
+FFF,Wales,574028,180,Pass
+FFF,Wales,627366,120,Withdrawn
+FFF,Wales,629879,60,Fail
+FFF,Wales,87322,120,Pass
+FFF,Wales,386956,60,Withdrawn
+FFF,Wales,408872,60,Withdrawn
+FFF,Wales,435294,150,Withdrawn
+FFF,Wales,438063,60,Fail
+FFF,Wales,554063,180,Distinction
+FFF,Wales,631740,60,Pass
+FFF,Wales,640711,90,Pass
+FFF,Wales,652625,60,Distinction
+FFF,Wales,652801,60,Withdrawn
+FFF,Wales,654819,90,Distinction
+FFF,Wales,677869,120,Fail
+FFF,Wales,679251,120,Fail
+FFF,Wales,680322,150,Pass
+FFF,Wales,683323,120,Fail
+FFF,Wales,687331,60,Fail
+FFF,West Midlands Region,36385,120,Withdrawn
+FFF,West Midlands Region,86538,60,Withdrawn
+FFF,West Midlands Region,373613,60,Fail
+FFF,West Midlands Region,495621,120,Fail
+FFF,West Midlands Region,534962,60,Withdrawn
+FFF,West Midlands Region,545791,120,Withdrawn
+FFF,West Midlands Region,548043,60,Withdrawn
+FFF,West Midlands Region,550853,60,Pass
+FFF,West Midlands Region,556351,60,Fail
+FFF,West Midlands Region,557908,60,Withdrawn
+FFF,West Midlands Region,136894,90,Pass
+FFF,West Midlands Region,305858,90,Pass
+FFF,West Midlands Region,321486,60,Withdrawn
+FFF,West Midlands Region,445728,120,Withdrawn
+FFF,West Midlands Region,491756,90,Withdrawn
+FFF,West Midlands Region,561714,120,Distinction
+FFF,West Midlands Region,568207,60,Pass
+FFF,West Midlands Region,568602,90,Withdrawn
+FFF,West Midlands Region,583128,60,Withdrawn
+FFF,West Midlands Region,586925,60,Fail
+FFF,West Midlands Region,592763,60,Pass
+FFF,West Midlands Region,594956,150,Withdrawn
+FFF,West Midlands Region,600436,120,Withdrawn
+FFF,West Midlands Region,2337889,60,Pass
+FFF,West Midlands Region,2588467,60,Fail
+FFF,West Midlands Region,34293,60,Withdrawn
+FFF,West Midlands Region,421179,60,Fail
+FFF,West Midlands Region,509292,90,Withdrawn
+FFF,West Midlands Region,577795,120,Withdrawn
+FFF,West Midlands Region,624243,90,Withdrawn
+FFF,West Midlands Region,630326,60,Pass
+FFF,West Midlands Region,2186992,120,Distinction
+FFF,West Midlands Region,2270880,90,Pass
+FFF,West Midlands Region,2569942,60,Pass
+FFF,West Midlands Region,2595058,60,Fail
+FFF,West Midlands Region,381428,120,Withdrawn
+FFF,West Midlands Region,491126,60,Pass
+FFF,West Midlands Region,491756,90,Withdrawn
+FFF,West Midlands Region,555277,60,Withdrawn
+FFF,West Midlands Region,561311,120,Withdrawn
+FFF,West Midlands Region,642840,120,Fail
+FFF,West Midlands Region,645194,180,Withdrawn
+FFF,West Midlands Region,647417,120,Withdrawn
+FFF,West Midlands Region,682524,60,Withdrawn
+FFF,West Midlands Region,686458,60,Withdrawn
+FFF,West Midlands Region,689832,60,Pass
+FFF,West Midlands Region,694284,120,Withdrawn
+FFF,West Midlands Region,694464,120,Withdrawn
+FFF,West Midlands Region,697478,60,Pass
+FFF,West Midlands Region,2146013,210,Withdrawn
+FFF,West Midlands Region,2537777,120,Fail
+FFF,Yorkshire Region,72693,140,Pass
+FFF,Yorkshire Region,366836,210,Withdrawn
+FFF,Yorkshire Region,504162,60,Pass
+FFF,Yorkshire Region,514913,120,Withdrawn
+FFF,Yorkshire Region,517269,180,Pass
+FFF,Yorkshire Region,528071,60,Withdrawn
+FFF,Yorkshire Region,540800,90,Pass
+FFF,Yorkshire Region,552395,60,Withdrawn
+FFF,Yorkshire Region,558354,120,Withdrawn
+FFF,Yorkshire Region,253516,60,Fail
+FFF,Yorkshire Region,289304,90,Pass
+FFF,Yorkshire Region,494335,180,Withdrawn
+FFF,Yorkshire Region,514913,120,Fail
+FFF,Yorkshire Region,575459,240,Withdrawn
+FFF,Yorkshire Region,585409,90,Fail
+FFF,Yorkshire Region,587868,60,Fail
+FFF,Yorkshire Region,602312,120,Pass
+FFF,Yorkshire Region,603848,120,Withdrawn
+FFF,Yorkshire Region,232286,150,Pass
+FFF,Yorkshire Region,405775,60,Pass
+FFF,Yorkshire Region,511350,60,Withdrawn
+FFF,Yorkshire Region,552395,60,Fail
+FFF,Yorkshire Region,560168,150,Fail
+FFF,Yorkshire Region,603848,120,Fail
+FFF,Yorkshire Region,619974,60,Withdrawn
+FFF,Yorkshire Region,620004,60,Withdrawn
+FFF,Yorkshire Region,626047,60,Withdrawn
+FFF,Yorkshire Region,627651,120,Withdrawn
+FFF,Yorkshire Region,2256318,120,Pass
+FFF,Yorkshire Region,2689210,60,Pass
+FFF,Yorkshire Region,465078,60,Withdrawn
+FFF,Yorkshire Region,511350,90,Fail
+FFF,Yorkshire Region,598559,60,Pass
+FFF,Yorkshire Region,635746,90,Withdrawn
+FFF,Yorkshire Region,636749,240,Withdrawn
+FFF,Yorkshire Region,637800,120,Withdrawn
+FFF,Yorkshire Region,647033,120,Withdrawn
+FFF,Yorkshire Region,651611,120,Withdrawn
+FFF,Yorkshire Region,679278,60,Pass
+FFF,Yorkshire Region,683273,120,Fail
+FFF,Yorkshire Region,688532,60,Withdrawn
+FFF,Yorkshire Region,688937,120,Withdrawn
+FFF,Yorkshire Region,695574,120,Withdrawn
+FFF,Yorkshire Region,697204,60,Withdrawn
+FFF,Yorkshire Region,1818385,120,Pass
+GGG,East Anglian Region,166183,30,Fail
+GGG,East Anglian Region,564190,60,Withdrawn
+GGG,East Anglian Region,567009,45,Pass
+GGG,East Anglian Region,568973,30,Fail
+GGG,East Anglian Region,569974,30,Pass
+GGG,East Anglian Region,581652,30,Distinction
+GGG,East Anglian Region,582460,30,Pass
+GGG,East Anglian Region,585114,30,Pass
+GGG,East Anglian Region,586818,30,Pass
+GGG,East Anglian Region,591216,30,Withdrawn
+GGG,East Anglian Region,595927,30,Distinction
+GGG,East Anglian Region,597971,30,Pass
+GGG,East Anglian Region,598788,30,Pass
+GGG,East Anglian Region,599410,30,Pass
+GGG,East Anglian Region,601275,30,Fail
+GGG,East Anglian Region,605861,30,Fail
+GGG,East Anglian Region,606245,30,Distinction
+GGG,East Anglian Region,609330,30,Pass
+GGG,East Anglian Region,609761,30,Pass
+GGG,East Anglian Region,2656100,30,Pass
+GGG,East Anglian Region,139329,60,Pass
+GGG,East Anglian Region,604901,30,Pass
+GGG,East Anglian Region,611629,30,Fail
+GGG,East Anglian Region,616742,30,Distinction
+GGG,East Anglian Region,618580,30,Withdrawn
+GGG,East Anglian Region,620946,30,Distinction
+GGG,East Anglian Region,621331,30,Withdrawn
+GGG,East Anglian Region,622500,30,Distinction
+GGG,East Anglian Region,624679,30,Fail
+GGG,East Anglian Region,627764,30,Pass
+GGG,East Anglian Region,627834,30,Distinction
+GGG,East Anglian Region,628870,30,Pass
+GGG,East Anglian Region,631454,30,Distinction
+GGG,East Anglian Region,631753,30,Pass
+GGG,East Anglian Region,631786,30,Pass
+GGG,East Anglian Region,632667,30,Pass
+GGG,East Anglian Region,634899,30,Fail
+GGG,East Anglian Region,125407,30,Pass
+GGG,East Anglian Region,560643,30,Fail
+GGG,East Anglian Region,620826,30,Withdrawn
+GGG,East Anglian Region,623475,30,Pass
+GGG,East Anglian Region,623588,30,Pass
+GGG,East Anglian Region,633060,30,Pass
+GGG,East Anglian Region,635779,30,Pass
+GGG,East Anglian Region,641504,30,Withdrawn
+GGG,East Anglian Region,645232,30,Distinction
+GGG,East Anglian Region,647758,30,Withdrawn
+GGG,East Anglian Region,651740,30,Distinction
+GGG,East Anglian Region,651954,90,Fail
+GGG,East Anglian Region,653230,30,Withdrawn
+GGG,East Anglian Region,653252,30,Pass
+GGG,East Anglian Region,674568,30,Pass
+GGG,East Anglian Region,681065,30,Distinction
+GGG,East Anglian Region,685877,30,Withdrawn
+GGG,East Anglian Region,686598,30,Pass
+GGG,East Anglian Region,691577,30,Withdrawn
+GGG,East Anglian Region,693763,30,Pass
+GGG,East Anglian Region,697325,30,Distinction
+GGG,East Midlands Region,330177,60,Pass
+GGG,East Midlands Region,497278,30,Pass
+GGG,East Midlands Region,503663,30,Distinction
+GGG,East Midlands Region,576371,60,Fail
+GGG,East Midlands Region,576445,30,Pass
+GGG,East Midlands Region,578940,30,Pass
+GGG,East Midlands Region,598226,30,Fail
+GGG,East Midlands Region,599963,30,Pass
+GGG,East Midlands Region,602607,30,Fail
+GGG,East Midlands Region,608714,30,Fail
+GGG,East Midlands Region,1828078,30,Fail
+GGG,East Midlands Region,2498139,30,Distinction
+GGG,East Midlands Region,603064,30,Fail
+GGG,East Midlands Region,608649,30,Withdrawn
+GGG,East Midlands Region,623322,30,Withdrawn
+GGG,East Midlands Region,633285,90,Fail
+GGG,East Midlands Region,633683,30,Pass
+GGG,East Midlands Region,634461,30,Fail
+GGG,East Midlands Region,2392554,30,Pass
+GGG,East Midlands Region,31205,30,Fail
+GGG,East Midlands Region,612429,30,Pass
+GGG,East Midlands Region,625530,30,Pass
+GGG,East Midlands Region,648380,30,Pass
+GGG,East Midlands Region,677433,30,Fail
+GGG,East Midlands Region,679373,30,Withdrawn
+GGG,East Midlands Region,684427,30,Fail
+GGG,East Midlands Region,687653,30,Pass
+GGG,East Midlands Region,688401,30,Pass
+GGG,London Region,417220,30,Fail
+GGG,London Region,499446,30,Pass
+GGG,London Region,566963,30,Pass
+GGG,London Region,585768,30,Pass
+GGG,London Region,591849,30,Fail
+GGG,London Region,594901,30,Fail
+GGG,London Region,596824,30,Pass
+GGG,London Region,600032,45,Fail
+GGG,London Region,1969985,30,Pass
+GGG,London Region,2511859,60,Pass
+GGG,London Region,345737,60,Withdrawn
+GGG,London Region,401909,30,Withdrawn
+GGG,London Region,532473,30,Withdrawn
+GGG,London Region,566818,30,Fail
+GGG,London Region,589973,90,Fail
+GGG,London Region,605375,60,Pass
+GGG,London Region,612929,30,Fail
+GGG,London Region,613616,30,Fail
+GGG,London Region,618893,30,Distinction
+GGG,London Region,619945,30,Withdrawn
+GGG,London Region,622646,30,Fail
+GGG,London Region,628722,30,Fail
+GGG,London Region,629633,30,Distinction
+GGG,London Region,633123,30,Pass
+GGG,London Region,633389,30,Fail
+GGG,London Region,634344,30,Fail
+GGG,London Region,2262510,30,Distinction
+GGG,London Region,554580,60,Pass
+GGG,London Region,587909,30,Pass
+GGG,London Region,642879,30,Fail
+GGG,London Region,651210,30,Withdrawn
+GGG,London Region,651748,60,Withdrawn
+GGG,London Region,652414,30,Pass
+GGG,London Region,653249,60,Withdrawn
+GGG,London Region,653435,30,Pass
+GGG,London Region,655954,30,Distinction
+GGG,North Region,135331,30,Fail
+GGG,North Region,383420,60,Withdrawn
+GGG,North Region,589395,30,Pass
+GGG,North Region,383420,60,Pass
+GGG,North Region,693421,30,Distinction
+GGG,North Western Region,249965,30,Distinction
+GGG,North Western Region,348579,30,Pass
+GGG,North Western Region,474272,45,Fail
+GGG,North Western Region,476921,60,Fail
+GGG,North Western Region,481404,30,Pass
+GGG,North Western Region,537670,150,Fail
+GGG,North Western Region,556520,30,Distinction
+GGG,North Western Region,568118,30,Fail
+GGG,North Western Region,578781,30,Fail
+GGG,North Western Region,579015,30,Pass
+GGG,North Western Region,582005,150,Withdrawn
+GGG,North Western Region,584712,30,Fail
+GGG,North Western Region,585041,30,Pass
+GGG,North Western Region,587150,90,Withdrawn
+GGG,North Western Region,594771,105,Distinction
+GGG,North Western Region,595440,30,Distinction
+GGG,North Western Region,596091,30,Pass
+GGG,North Western Region,606052,30,Fail
+GGG,North Western Region,609538,30,Pass
+GGG,North Western Region,2254271,30,Fail
+GGG,North Western Region,2555098,30,Fail
+GGG,North Western Region,506533,60,Pass
+GGG,North Western Region,577275,90,Distinction
+GGG,North Western Region,578452,30,Pass
+GGG,North Western Region,583687,120,Fail
+GGG,North Western Region,613235,30,Pass
+GGG,North Western Region,615401,30,Fail
+GGG,North Western Region,617745,60,Pass
+GGG,North Western Region,619952,30,Pass
+GGG,North Western Region,622387,30,Withdrawn
+GGG,North Western Region,622886,30,Withdrawn
+GGG,North Western Region,625875,90,Distinction
+GGG,North Western Region,630169,30,Fail
+GGG,North Western Region,631542,30,Pass
+GGG,North Western Region,634320,30,Pass
+GGG,North Western Region,2445562,120,Pass
+GGG,North Western Region,2546763,30,Fail
+GGG,North Western Region,2672138,30,Distinction
+GGG,North Western Region,302145,30,Pass
+GGG,North Western Region,350944,30,Fail
+GGG,North Western Region,498564,30,Fail
+GGG,North Western Region,643525,30,Withdrawn
+GGG,North Western Region,643529,30,Fail
+GGG,North Western Region,643619,30,Pass
+GGG,North Western Region,648528,90,Pass
+GGG,North Western Region,649867,30,Pass
+GGG,North Western Region,650023,30,Fail
+GGG,North Western Region,652574,30,Fail
+GGG,North Western Region,674890,30,Distinction
+GGG,North Western Region,679258,30,Fail
+GGG,North Western Region,680850,30,Fail
+GGG,North Western Region,684456,30,Pass
+GGG,North Western Region,690029,30,Pass
+GGG,North Western Region,694009,30,Distinction
+GGG,Scotland,640654,30,Fail
+GGG,Scotland,646881,30,Fail
+GGG,Scotland,649909,30,Pass
+GGG,Scotland,678255,30,Pass
+GGG,Scotland,681751,30,Fail
+GGG,Scotland,682440,30,Fail
+GGG,Scotland,689838,30,Fail
+GGG,Scotland,691127,30,Pass
+GGG,Scotland,691501,30,Distinction
+GGG,Scotland,691787,30,Fail
+GGG,Scotland,695877,30,Fail
+GGG,Scotland,2338614,30,Withdrawn
+GGG,Scotland,2620947,30,Distinction
+GGG,South East Region,82341,30,Distinction
+GGG,South East Region,281619,30,Pass
+GGG,South East Region,474067,30,Pass
+GGG,South East Region,545313,30,Fail
+GGG,South East Region,574988,30,Pass
+GGG,South East Region,589990,30,Pass
+GGG,South East Region,606463,30,Distinction
+GGG,South East Region,610557,30,Fail
+GGG,South East Region,2386281,30,Pass
+GGG,South East Region,245802,30,Pass
+GGG,South East Region,442877,30,Pass
+GGG,South East Region,511228,30,Pass
+GGG,South East Region,542562,240,Pass
+GGG,South East Region,600390,30,Withdrawn
+GGG,South East Region,605828,30,Pass
+GGG,South East Region,618887,30,Pass
+GGG,South East Region,619520,30,Fail
+GGG,South East Region,621755,30,Pass
+GGG,South East Region,627076,30,Fail
+GGG,South East Region,630787,30,Pass
+GGG,South East Region,632675,30,Pass
+GGG,South East Region,1986312,30,Withdrawn
+GGG,South East Region,439170,30,Distinction
+GGG,South East Region,513166,30,Distinction
+GGG,South East Region,595941,30,Pass
+GGG,South East Region,636282,30,Distinction
+GGG,South East Region,637067,30,Pass
+GGG,South East Region,646748,30,Withdrawn
+GGG,South East Region,650257,90,Withdrawn
+GGG,South East Region,677066,30,Pass
+GGG,South East Region,680988,30,Withdrawn
+GGG,South East Region,694470,30,Pass
+GGG,South Region,311158,30,Pass
+GGG,South Region,472911,30,Pass
+GGG,South Region,478556,30,Distinction
+GGG,South Region,478784,30,Distinction
+GGG,South Region,494291,30,Fail
+GGG,South Region,568539,30,Pass
+GGG,South Region,575454,30,Fail
+GGG,South Region,583031,30,Pass
+GGG,South Region,599499,30,Fail
+GGG,South Region,600606,30,Pass
+GGG,South Region,602004,90,Withdrawn
+GGG,South Region,602072,30,Pass
+GGG,South Region,606497,30,Fail
+GGG,South Region,608693,30,Fail
+GGG,South Region,1830666,30,Fail
+GGG,South Region,2248789,30,Fail
+GGG,South Region,2482885,30,Fail
+GGG,South Region,198315,60,Fail
+GGG,South Region,304106,30,Fail
+GGG,South Region,380238,30,Pass
+GGG,South Region,406751,30,Pass
+GGG,South Region,426547,30,Pass
+GGG,South Region,617133,30,Fail
+GGG,South Region,619107,30,Fail
+GGG,South Region,624327,30,Fail
+GGG,South Region,626307,30,Withdrawn
+GGG,South Region,629310,30,Fail
+GGG,South Region,630762,30,Fail
+GGG,South Region,317399,30,Fail
+GGG,South Region,609257,30,Distinction
+GGG,South Region,633424,30,Pass
+GGG,South Region,641112,30,Pass
+GGG,South Region,642528,40,Pass
+GGG,South Region,650662,30,Withdrawn
+GGG,South Region,651628,30,Pass
+GGG,South Region,656970,30,Withdrawn
+GGG,South Region,674640,30,Pass
+GGG,South Region,676690,30,Withdrawn
+GGG,South Region,684995,30,Fail
+GGG,South Region,689485,30,Fail
+GGG,South Region,692018,30,Pass
+GGG,South Region,697314,30,Pass
+GGG,South Region,1782236,30,Pass
+GGG,South Region,2456431,30,Fail
+GGG,South Region,2648187,30,Pass
+GGG,South West Region,142990,30,Fail
+GGG,South West Region,339853,30,Pass
+GGG,South West Region,521164,30,Distinction
+GGG,South West Region,560328,30,Pass
+GGG,South West Region,562696,60,Distinction
+GGG,South West Region,564609,30,Pass
+GGG,South West Region,568288,45,Distinction
+GGG,South West Region,577827,90,Fail
+GGG,South West Region,581414,30,Pass
+GGG,South West Region,593954,30,Pass
+GGG,South West Region,597097,30,Pass
+GGG,South West Region,606028,30,Pass
+GGG,South West Region,607912,30,Pass
+GGG,South West Region,165898,30,Fail
+GGG,South West Region,299536,30,Fail
+GGG,South West Region,545665,60,Distinction
+GGG,South West Region,550758,90,Distinction
+GGG,South West Region,573834,30,Fail
+GGG,South West Region,612709,30,Withdrawn
+GGG,South West Region,613988,30,Pass
+GGG,South West Region,615425,30,Pass
+GGG,South West Region,620956,30,Withdrawn
+GGG,South West Region,621459,30,Withdrawn
+GGG,South West Region,623442,30,Distinction
+GGG,South West Region,626159,30,Pass
+GGG,South West Region,626317,30,Fail
+GGG,South West Region,2477545,30,Withdrawn
+GGG,South West Region,132932,30,Pass
+GGG,South West Region,141827,30,Pass
+GGG,South West Region,275136,30,Pass
+GGG,South West Region,276893,30,Pass
+GGG,South West Region,358966,30,Distinction
+GGG,South West Region,415307,30,Fail
+GGG,South West Region,500915,30,Withdrawn
+GGG,South West Region,501888,30,Distinction
+GGG,South West Region,616704,30,Withdrawn
+GGG,South West Region,643191,30,Withdrawn
+GGG,South West Region,656111,30,Fail
+GGG,South West Region,681107,30,Pass
+GGG,South West Region,695143,90,Withdrawn
+GGG,South West Region,2053521,30,Pass
+GGG,Wales,396532,30,Fail
+GGG,Wales,643659,30,Fail
+GGG,Wales,643970,30,Pass
+GGG,Wales,685436,30,Pass
+GGG,Wales,690057,30,Pass
+GGG,Wales,690065,30,Fail
+GGG,Wales,694416,30,Withdrawn
+GGG,Wales,695951,90,Pass
+GGG,West Midlands Region,189664,30,Pass
+GGG,West Midlands Region,569595,30,Fail
+GGG,West Midlands Region,575000,30,Fail
+GGG,West Midlands Region,586814,30,Withdrawn
+GGG,West Midlands Region,588105,30,Pass
+GGG,West Midlands Region,595496,60,Pass
+GGG,West Midlands Region,597617,30,Pass
+GGG,West Midlands Region,600320,30,Withdrawn
+GGG,West Midlands Region,603763,30,Pass
+GGG,West Midlands Region,605901,30,Distinction
+GGG,West Midlands Region,41414,30,Pass
+GGG,West Midlands Region,282962,30,Fail
+GGG,West Midlands Region,285193,30,Distinction
+GGG,West Midlands Region,350473,30,Fail
+GGG,West Midlands Region,480590,30,Pass
+GGG,West Midlands Region,518145,30,Pass
+GGG,West Midlands Region,614224,30,Fail
+GGG,West Midlands Region,618579,30,Pass
+GGG,West Midlands Region,625775,30,Fail
+GGG,West Midlands Region,1994632,30,Pass
+GGG,West Midlands Region,527039,30,Fail
+GGG,West Midlands Region,600320,30,Pass
+GGG,West Midlands Region,647345,30,Fail
+GGG,West Midlands Region,674467,30,Withdrawn
+GGG,West Midlands Region,682413,30,Pass
+GGG,West Midlands Region,686650,30,Fail
+GGG,Yorkshire Region,523803,90,Pass
+GGG,Yorkshire Region,586981,30,Fail
+GGG,Yorkshire Region,588014,30,Distinction
+GGG,Yorkshire Region,24186,30,Pass
+GGG,Yorkshire Region,588489,30,Fail
+GGG,Yorkshire Region,592190,30,Pass
+GGG,Yorkshire Region,617114,30,Fail
+GGG,Yorkshire Region,620218,30,Fail
+GGG,Yorkshire Region,620808,30,Distinction
+GGG,Yorkshire Region,631756,30,Fail
