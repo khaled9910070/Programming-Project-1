@@ -50,31 +50,28 @@ def studentResult():
         #avalue is buggy because its showing 3 columns all of the same value *needs to be fixed*
         a = df_index[df_index['code_module_x'] == 'AAA']
         aaa = a.pivot_table(df_index, index=['id_student', 'code_module_x' ,'code_presentation','final_result', 'activity_type','id_site'])
-        avalue = aaa.groupby('final_result').count()
         
         b = df_index[df_index['code_module_x'] == 'BBB']
         bbb = b.pivot_table(df_index, index=['id_student', 'code_module_x' ,'code_presentation','final_result', 'activity_type','id_site'])
-        bvalue = bbb.groupby('final_result').count()
+     
 
         c = df_index[df_index['code_module_x'] == 'CCC']
         ccc = c.pivot_table(df_index, index=['id_student', 'code_module_x' ,'code_presentation','final_result', 'activity_type','id_site'])
-        cvalue = ccc.groupby('final_result').value_counts()
+      
 
         d = df_index[df_index['code_module_x'] == 'DDD']
         ddd = d.pivot_table(df_index, index=['id_student', 'code_module_x' ,'code_presentation','final_result', 'activity_type','id_site'])
-        dvalue = ddd.groupby('final_result').count()
+      
 
         e = df_index[df_index['code_module_x'] == 'EEE']
         eee = e.pivot_table(df_index, index=['id_student', 'code_module_x' ,'code_presentation','final_result', 'activity_type','id_site'])
-        evalue = eee.groupby('final_result').count()
+        
 
         f = df_index[df_index['code_module_x'] == 'FFF']
         fff = f.pivot_table(df_index, index=['id_student', 'code_module_x' ,'code_presentation','final_result', 'activity_type','id_site'])
-        fvalue = fff.groupby('final_result').count()
 
         g = df_index[df_index['code_module_x'] == 'GGG']
         ggg = g.pivot_table(df_index, index=['id_student', 'code_module_x' ,'code_presentation','final_result', 'activity_type','id_site'])
-        gvalue = ggg.groupby('final_result').count()
 
 
         # df2.to_csv("vleResults.csv")
@@ -91,4 +88,51 @@ def studentResult():
         
 
 
-studentResult()
+def dataBalancing():
+        dataA = pd.read_csv("CodeModuleResults/codeModuleA.csv")
+
+        # target_count = dataA['final_result'].value_counts()
+        # print('Pass:', target_count[0])
+        # print('Withdrawn:', target_count[1])
+        # print('Fail:', target_count[2])
+        # print('Distinction:', target_count[3])
+
+        # print('Proportion:', round(target_count[0]/target_count[3],2),':1')
+        # #pass/distinction 9.0:1
+        # print('Proportion:', round(target_count[1]/target_count[3],2),':1')
+        # #withdrawn/distinction 1.71: 1
+        # print('Proportion:', round(target_count[2]/target_count[3],2),':1')
+        # #Fail/Distinction 1.08: 1
+
+        #Uses the under-sampling method to even out the dataset
+        #with the old dataset it was heavily infavor of students with a final_result of Pass
+        #The lowest count of final_result is Distinction with 3724
+        #The data was randomly resampled to 3724
+
+        count_class_0, count_class_1,count_class_2, count_class_3 = dataA['final_result'].value_counts()
+        passGrade = dataA[dataA['final_result'] == 'Pass']
+        withdrawn = dataA[dataA['final_result'] == 'Withdrawn']
+        fail = dataA[dataA['final_result'] == 'Fail']
+        distinction = dataA[dataA['final_result'] == 'Distinction']
+        #this sets the variables of pass/withdraw/fail/distinction
+        pass_under = passGrade.sample(count_class_3)
+        #this is where the data gets resampled to count_class_3 --> Distinction(3724)
+        df_test_pass = pd.concat([pass_under, distinction], axis=0)
+
+        withdrawn_under = withdrawn.sample(count_class_3)
+        df_test_withdrawn = pd.concat([withdrawn_under, distinction], axis=0)
+
+        fail_under = fail.sample(count_class_3)
+        df_test_fail = pd.concat([fail_under,withdrawn_under,pass_under,distinction])
+        #concatinates all the resampled data 
+        df_test_fail.to_csv("sampleA.csv")
+        #exported to CSV
+
+        print('Random under-sampling:')
+        print(df_test_fail)
+
+       
+
+
+
+dataBalancing()
