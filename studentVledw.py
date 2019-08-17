@@ -88,7 +88,7 @@ def studentResult():
         
 
 
-def dataBalancing():
+def dataBalancingA():
         dataA = pd.read_csv("CodeModuleResults/codeModuleA.csv")
 
         # target_count = dataA['final_result'].value_counts()
@@ -124,6 +124,7 @@ def dataBalancing():
 
         fail_under = fail.sample(count_class_3)
         df_test_fail = pd.concat([fail_under,withdrawn_under,pass_under,distinction])
+        df_test_fail = df_test_fail.set_index('id_student')
         #concatinates all the resampled data 
         df_test_fail.to_csv("sampleA.csv")
         #exported to CSV
@@ -134,5 +135,270 @@ def dataBalancing():
        
 
 
+def dataBalancingB():
+        dataB = pd.read_csv("CodeModuleResults/codeModuleB.csv")
 
-dataBalancing()
+        # target_count = dataB['final_result'].value_counts()
+        # print('Pass:', target_count[0])
+        # print('Withdrawn:', target_count[1])
+        # print('Fail:', target_count[2])
+        # print('Distinction:', target_count[3])
+
+        # print('Proportion:', round(target_count[0]/target_count[3],2),':1')
+        # #pass/distinction 9.0:1
+        # print('Proportion:', round(target_count[1]/target_count[3],2),':1')
+        # #withdrawn/distinction 1.71: 1
+        # print('Proportion:', round(target_count[2]/target_count[3],2),':1')
+        # #Fail/Distinction 1.08: 1
+
+        #Uses the under-sampling method to even out the dataset
+        #with the old dataset it was heavily infavor of students with a final_result of Pass
+        #The lowest count of final_result is Distinction with 3724
+        #The data was randomly resampled to 3724
+
+        count_class_0, count_class_1,count_class_2, count_class_3 = dataB['final_result'].value_counts()
+        passGrade = dataB[dataB['final_result'] == 'Pass']
+        withdrawn = dataB[dataB['final_result'] == 'Withdrawn']
+        fail = dataB[dataB['final_result'] == 'Fail']
+        distinction = dataB[dataB['final_result'] == 'Distinction']
+        #this sets the variables of pass/withdraw/fail/distinction
+        pass_under = passGrade.sample(count_class_3)
+        #this is where the data gets resampled to count_class_3 --> Distinction(3724)
+        df_test_pass = pd.concat([pass_under, distinction], axis=0)
+
+        withdrawn_under = withdrawn.sample(count_class_3)
+        df_test_withdrawn = pd.concat([withdrawn_under, distinction], axis=0)
+
+        fail_under = fail.sample(count_class_3)
+        df_test_fail = pd.concat([fail_under,withdrawn_under,pass_under,distinction])
+        df_test_fail = df_test_fail.set_index('id_student')
+        #concatinates all the resampled data 
+        df_test_fail.to_csv("sampleB.csv")
+        #exported to CSV
+
+        # print('Random under-sampling:')
+        # print(df_test_fail)
+
+def dataBalancingC():
+        dataA = pd.read_csv("CodeModuleResults/codeModuleC.csv")
+
+        # target_count = dataA['final_result'].value_counts()
+        # print('Pass:', target_count[0])
+        # print('Withdrawn:', target_count[1])
+        # print('Fail:', target_count[2])
+        # print('Distinction:', target_count[3])
+
+        # print('Proportion:', round(target_count[0]/target_count[3],2),':1')
+        # #pass/distinction 9.0:1
+        # print('Proportion:', round(target_count[1]/target_count[3],2),':1')
+        # #withdrawn/distinction 1.71: 1
+        # print('Proportion:', round(target_count[2]/target_count[3],2),':1')
+        # #Fail/Distinction 1.08: 1
+
+        #Uses the under-sampling method to even out the dataset
+        #with the old dataset it was heavily infavor of students with a final_result of Pass
+        #The lowest count of final_result is Distinction with 53658
+        #The data was randomly resampled to 53658
+
+        count_class_0, count_class_1,count_class_2, count_class_3 = dataA['final_result'].value_counts()
+        passGrade = dataA[dataA['final_result'] == 'Pass']
+        withdrawn = dataA[dataA['final_result'] == 'Withdrawn']
+        fail = dataA[dataA['final_result'] == 'Fail']
+        distinction = dataA[dataA['final_result'] == 'Distinction']
+        #this sets the variables of pass/withdraw/fail/distinction
+        pass_under = passGrade.sample(count_class_3)
+        #this is where the data gets resampled to count_class_3 --> Distinction(53658)
+        df_test_pass = pd.concat([pass_under, distinction], axis=0)
+
+        withdrawn_under = withdrawn.sample(count_class_3)
+        df_test_withdrawn = pd.concat([withdrawn_under, distinction], axis=0)
+
+        fail_under = fail.sample(count_class_3)
+        df_test_fail = pd.concat([fail_under,withdrawn_under,pass_under,distinction])
+        df_test_fail = df_test_fail.set_index('id_student')
+        #concatinates all the resampled data 
+        df_test_fail.to_csv("sampleC.csv")
+        #exported to CSV
+
+        # print('Random under-sampling:')
+        # print(df_test_fail)
+def dataBalancingD():
+        dataA = pd.read_csv("CodeModuleResults/codeModuleD.csv")
+
+        # target_count = dataA['final_result'].value_counts()
+        # print('Pass:', target_count[0])
+        # print('Withdrawn:', target_count[1])
+        # print('Fail:', target_count[2])
+        # print('Distinction:', target_count[3])
+
+        # print('Proportion:', round(target_count[0]/target_count[3],2),':1')
+        # #pass/distinction 9.0:1
+        # print('Proportion:', round(target_count[1]/target_count[3],2),':1')
+        # #withdrawn/distinction 1.71: 1
+        # print('Proportion:', round(target_count[2]/target_count[3],2),':1')
+        # #Fail/Distinction 1.08: 1
+
+        #Uses the under-sampling method to even out the dataset
+        #with the old dataset it was heavily infavor of students with a final_result of Pass
+        #The lowest count of final_result is Distinction with 63955
+        #The data was randomly resampled to 63955
+
+        count_class_0, count_class_1,count_class_2, count_class_3 = dataA['final_result'].value_counts()
+        passGrade = dataA[dataA['final_result'] == 'Pass']
+        withdrawn = dataA[dataA['final_result'] == 'Withdrawn']
+        fail = dataA[dataA['final_result'] == 'Fail']
+        distinction = dataA[dataA['final_result'] == 'Distinction']
+        #this sets the variables of pass/withdraw/fail/distinction
+        pass_under = passGrade.sample(count_class_3)
+        #this is where the data gets resampled to count_class_3 --> Distinction(63955)
+        df_test_pass = pd.concat([pass_under, distinction], axis=0)
+
+        withdrawn_under = withdrawn.sample(count_class_3)
+        df_test_withdrawn = pd.concat([withdrawn_under, distinction], axis=0)
+
+        fail_under = fail.sample(count_class_3)
+        df_test_fail = pd.concat([fail_under,withdrawn_under,pass_under,distinction])
+        df_test_fail = df_test_fail.set_index('id_student')
+        #concatinates all the resampled data 
+        df_test_fail.to_csv("sampleD.csv")
+        #exported to CSV
+
+        # print('Random under-sampling:')
+        # print(df_test_fail)
+def dataBalancingE():
+        dataA = pd.read_csv("CodeModuleResults/codeModuleE.csv")
+
+        # target_count = dataA['final_result'].value_counts()
+        # print('Pass:', target_count[0])
+        # print('Withdrawn:', target_count[1])
+        # print('Fail:', target_count[2])
+        # print('Distinction:', target_count[3])
+
+        # print('Proportion:', round(target_count[0]/target_count[3],2),':1')
+        # #pass/distinction 9.0:1
+        # print('Proportion:', round(target_count[1]/target_count[3],2),':1')
+        # #withdrawn/distinction 1.71: 1
+        # print('Proportion:', round(target_count[2]/target_count[3],2),':1')
+        # #Fail/Distinction 1.08: 1
+
+        #Uses the under-sampling method to even out the dataset
+        #with the old dataset it was heavily infavor of students with a final_result of Pass
+        #The lowest count of final_result is Distinction with 16482
+        #The data was randomly resampled to 16482
+
+        count_class_0, count_class_1,count_class_2, count_class_3 = dataA['final_result'].value_counts()
+        passGrade = dataA[dataA['final_result'] == 'Pass']
+        withdrawn = dataA[dataA['final_result'] == 'Withdrawn']
+        fail = dataA[dataA['final_result'] == 'Fail']
+        distinction = dataA[dataA['final_result'] == 'Distinction']
+        #this sets the variables of pass/withdraw/fail/distinction
+        pass_under = passGrade.sample(count_class_3)
+        #this is where the data gets resampled to count_class_3 --> Distinction(16482)
+        df_test_pass = pd.concat([pass_under, distinction], axis=0)
+
+        withdrawn_under = withdrawn.sample(count_class_3)
+        df_test_withdrawn = pd.concat([withdrawn_under, distinction], axis=0)
+
+        fail_under = fail.sample(count_class_3)
+        df_test_fail = pd.concat([fail_under,withdrawn_under,pass_under,distinction])
+        df_test_fail = df_test_fail.set_index('id_student')
+        #concatinates all the resampled data 
+        df_test_fail.to_csv("sampleE.csv")
+        #exported to CSV
+
+        # print('Random under-sampling:')
+        # print(df_test_fail)
+def dataBalancingF():
+        dataA = pd.read_csv("CodeModuleResults/codeModuleF.csv")
+
+        # target_count = dataA['final_result'].value_counts()
+        # print('Pass:', target_count[0])
+        # print('Withdrawn:', target_count[1])
+        # print('Fail:', target_count[2])
+        # print('Distinction:', target_count[3])
+
+        # print('Proportion:', round(target_count[0]/target_count[3],2),':1')
+        # #pass/distinction 9.0:1
+        # print('Proportion:', round(target_count[1]/target_count[3],2),':1')
+        # #withdrawn/distinction 1.71: 1
+        # print('Proportion:', round(target_count[2]/target_count[3],2),':1')
+        # #Fail/Distinction 1.08: 1
+
+        #Uses the under-sampling method to even out the dataset
+        #with the old dataset it was heavily infavor of students with a final_result of Pass
+        #The lowest count of final_result is Distinction with 115163
+        #The data was randomly resampled to 115163
+
+        count_class_0, count_class_1,count_class_2, count_class_3 = dataA['final_result'].value_counts()
+        passGrade = dataA[dataA['final_result'] == 'Pass']
+        withdrawn = dataA[dataA['final_result'] == 'Withdrawn']
+        fail = dataA[dataA['final_result'] == 'Fail']
+        distinction = dataA[dataA['final_result'] == 'Distinction']
+        #this sets the variables of pass/withdraw/fail/distinction
+        pass_under = passGrade.sample(count_class_3)
+        #this is where the data gets resampled to count_class_3 --> Distinction(115163)
+        df_test_pass = pd.concat([pass_under, distinction], axis=0)
+
+        withdrawn_under = withdrawn.sample(count_class_3)
+        df_test_withdrawn = pd.concat([withdrawn_under, distinction], axis=0)
+
+        fail_under = fail.sample(count_class_3)
+        df_test_fail = pd.concat([fail_under,withdrawn_under,pass_under,distinction])
+        df_test_fail = df_test_fail.set_index('id_student')
+        #concatinates all the resampled data 
+        df_test_fail.to_csv("sampleF.csv")
+        #exported to CSV
+
+        # print('Random under-sampling:')
+        # print(df_test_fail)
+
+def dataBalancingG():
+        dataA = pd.read_csv("CodeModuleResults/codeModuleG.csv")
+
+        # target_count = dataA['final_result'].value_counts()
+        # print('Pass:', target_count[0])
+        # print('Withdrawn:', target_count[1])
+        # print('Fail:', target_count[2])
+        # print('Distinction:', target_count[3])
+
+        # print('Proportion:', round(target_count[0]/target_count[3],2),':1')
+        # #pass/distinction 9.0:1
+        # print('Proportion:', round(target_count[1]/target_count[3],2),':1')
+        # #withdrawn/distinction 1.71: 1
+        # print('Proportion:', round(target_count[2]/target_count[3],2),':1')
+        # #Fail/Distinction 1.08: 1
+
+        #Uses the under-sampling method to even out the dataset
+        #with the old dataset it was heavily infavor of students with a final_result of Pass
+        #The lowest count of final_result is Distinction with 3195
+        #The data was randomly resampled to 3195
+
+        count_class_0, count_class_1,count_class_2, count_class_3 = dataA['final_result'].value_counts()
+        passGrade = dataA[dataA['final_result'] == 'Pass']
+        withdrawn = dataA[dataA['final_result'] == 'Withdrawn']
+        fail = dataA[dataA['final_result'] == 'Fail']
+        distinction = dataA[dataA['final_result'] == 'Distinction']
+        #this sets the variables of pass/withdraw/fail/distinction
+        pass_under = passGrade.sample(count_class_3)
+        #this is where the data gets resampled to count_class_3 --> Distinction(3195)
+        df_test_pass = pd.concat([pass_under, distinction], axis=0)
+
+        withdrawn_under = withdrawn.sample(count_class_3)
+        df_test_withdrawn = pd.concat([withdrawn_under, distinction], axis=0)
+
+        fail_under = fail.sample(count_class_3)
+        df_test_fail = pd.concat([fail_under,withdrawn_under,pass_under,distinction])
+        df_test_fail = df_test_fail.set_index('id_student')
+        #concatinates all the resampled data 
+        df_test_fail.to_csv("sampleG.csv")
+        #exported to CSV
+
+        print('Random under-sampling:')
+        print(df_test_fail)
+
+# dataBalancingB()
+dataBalancingC()
+# dataBalancingD()
+dataBalancingE()
+# dataBalancingF()
+# dataBalancingG()
