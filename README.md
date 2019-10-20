@@ -10,9 +10,9 @@ To run Files inside Learning Analytics Directory:
   2. Choose the model_comparisions.IPYNB file to run the codes
   
   
-  Description of which files does what
+  Description of which files does what:
   
-  In Learning Analytics Directory
+ In Learning Analytics Directory
     1. Reading_Data.IPYNB : This file is to read all the datasets for initial Exploratory Data Analysis
     2. Feature_Engineering.IPYNB : This is all about Feature Engineering we have done though out the project
     3. modelling.IPYNB: This for some basic model design and analysis
