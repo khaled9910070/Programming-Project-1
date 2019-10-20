@@ -18,4 +18,6 @@ To run Files inside Learning Analytics Directory:
     3. modelling.IPYNB: This for some basic model design and analysis
     4. SomeVisualizations.IPYNB : Here we have done some visualization of the hypothesis which we used in our report
     
-    
+ In model_comparisions Directory
+     1. There is only python file in this directory.We need to run the IPYTHON file in order to do comparision of different models 
+     in our project.
